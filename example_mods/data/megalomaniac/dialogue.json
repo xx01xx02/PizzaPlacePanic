@@ -1,0 +1,100 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "megalodesport",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "there you are."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfpoixel",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "who the fuck are you and where in gods green shithole is my fucking girlfriend"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "megalodesport",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "i've heard a lot about you."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "megalodesport",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "traveling through dimensions, simply to annoy one person for your own gain."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfpoixel",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "yeah it fucking rocks "
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "megalodesport",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "listen."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "megalodesport",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "i've heard my voice a thousand times from a different mouth. that's something hard to deal with."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "megalodesport",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "and from what i've seen from this universe is something you must not see."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfpoixel",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "snork fucking mimimi asshole i dont care"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "megalodesport",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": ""
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "megalodesport",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "fuck you."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfpoixel",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "start da song b"
+		}
+	]
+}

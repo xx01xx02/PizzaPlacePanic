@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-238,
+				-500
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "snick idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-289,
+				-450
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "snick left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-118,
+				-580
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "snick down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-276,
+				-341
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "snick up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-170,
+				-503
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "snick right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/snick_animation",
+	"position": [
+		-10,
+		0
+	],
+	"healthicon": "snick",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		-480,
+		490
+	],
+	"sing_duration": 7,
+	"scale": 7.89999999999999
+}

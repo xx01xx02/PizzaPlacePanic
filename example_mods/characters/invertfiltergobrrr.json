@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				186,
+				133
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "scott idle dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				177,
+				130
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "scott Sing Note LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				170,
+				100
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "scott Sing Note DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				275,
+				120
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "scott Sing Note UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				250,
+				157
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "scott Sing Note RIGHT",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sedsed",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "sed",
+	"flip_x": false,
+	"healthbar_colors": [
+		20,
+		135,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "deshred idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				36,
+				4
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "deshred left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				36,
+				4
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "deshred down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-4
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "deshred up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "deshred right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/deshred_assets",
+	"position": [
+		-80,
+		290
+	],
+	"healthicon": "Shreddin",
+	"flip_x": false,
+	"healthbar_colors": [
+		211,
+		36,
+		43
+	],
+	"camera_position": [
+		-170,
+		-290
+	],
+	"sing_duration": 6.1,
+	"scale": 4
+}

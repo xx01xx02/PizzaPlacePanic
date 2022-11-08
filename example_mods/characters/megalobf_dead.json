@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 17,
+			"anim": "deathConfirm",
+			"loop": false,
+			"name": "megalo deathconfirm"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 19,
+			"anim": "firstDeath",
+			"loop": false,
+			"name": "megalo firstdeath"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 18,
+			"anim": "deathLoop",
+			"loop": true,
+			"name": "megalo deathloop"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/bfmegalo_dead",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf-pixel",
+	"flip_x": true,
+	"healthbar_colors": [
+		123,
+		214,
+		246
+	],
+	"camera_position": [
+		50,
+		-60
+	],
+	"sing_duration": 4,
+	"scale": 6
+}

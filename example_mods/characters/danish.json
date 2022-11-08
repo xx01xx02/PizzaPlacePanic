@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 18,
+			"anim": "singUP",
+			"loop": false,
+			"name": "danish up"
+		},
+		{
+			"offsets": [
+				-110,
+				0
+			],
+			"indices": [],
+			"fps": 18,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "danish right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 18,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "danish left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "idle",
+			"loop": false,
+			"name": "danish idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 18,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "danish down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/danish",
+	"position": [
+		-390,
+		-280
+	],
+	"healthicon": "danishden",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-64,
+		30
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

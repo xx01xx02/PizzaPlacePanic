@@ -1,0 +1,3 @@
+the thing that flashes the cam and plays the sound effect
+
+value 1 is the length of the flash

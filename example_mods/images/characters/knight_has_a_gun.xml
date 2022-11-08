@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="knight has a gun.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="knightbop left0000" x="5" y="5" width="209" height="570" frameX="0" frameY="0" frameWidth="225" frameHeight="570"/>
+	<SubTexture name="knightbop left0001" x="5" y="5" width="209" height="570" frameX="0" frameY="0" frameWidth="225" frameHeight="570"/>
+	<SubTexture name="knightbop left0002" x="219" y="5" width="209" height="561" frameX="-7" frameY="-9" frameWidth="225" frameHeight="570"/>
+	<SubTexture name="knightbop left0003" x="219" y="5" width="209" height="561" frameX="-7" frameY="-9" frameWidth="225" frameHeight="570"/>
+	<SubTexture name="knightbop left0004" x="433" y="5" width="202" height="567" frameX="-18" frameY="-3" frameWidth="225" frameHeight="570"/>
+	<SubTexture name="knightbop left0005" x="433" y="5" width="202" height="567" frameX="-18" frameY="-3" frameWidth="225" frameHeight="570"/>
+	<SubTexture name="knightbop left0006" x="640" y="5" width="204" height="567" frameX="-21" frameY="-3" frameWidth="225" frameHeight="570"/>
+	<SubTexture name="knightbop left0007" x="640" y="5" width="204" height="567" frameX="-21" frameY="-3" frameWidth="225" frameHeight="570"/>
+	<SubTexture name="knightbop left0008" x="640" y="5" width="204" height="567" frameX="-21" frameY="-3" frameWidth="225" frameHeight="570"/>
+	<SubTexture name="knightbop left0009" x="640" y="5" width="204" height="567" frameX="-21" frameY="-3" frameWidth="225" frameHeight="570"/>
+	<SubTexture name="knightbop right0000" x="849" y="5" width="200" height="571" frameX="-18" frameY="0" frameWidth="218" frameHeight="571"/>
+	<SubTexture name="knightbop right0001" x="849" y="5" width="200" height="571" frameX="-18" frameY="0" frameWidth="218" frameHeight="571"/>
+	<SubTexture name="knightbop right0002" x="1054" y="5" width="201" height="558" frameX="-12" frameY="-13" frameWidth="218" frameHeight="571"/>
+	<SubTexture name="knightbop right0003" x="1054" y="5" width="201" height="558" frameX="-12" frameY="-13" frameWidth="218" frameHeight="571"/>
+	<SubTexture name="knightbop right0004" x="1260" y="5" width="204" height="564" frameX="-4" frameY="-7" frameWidth="218" frameHeight="571"/>
+	<SubTexture name="knightbop right0005" x="1260" y="5" width="204" height="564" frameX="-4" frameY="-7" frameWidth="218" frameHeight="571"/>
+	<SubTexture name="knightbop right0006" x="640" y="5" width="204" height="567" frameX="0" frameY="-4" frameWidth="225" frameHeight="570"/>
+	<SubTexture name="knightbop right0007" x="640" y="5" width="204" height="567" frameX="0" frameY="-4" frameWidth="225" frameHeight="570"/>
+	<SubTexture name="knightbop right0008" x="640" y="5" width="204" height="567" frameX="0" frameY="-4" frameWidth="225" frameHeight="570"/>
+	<SubTexture name="knightbop right0009" x="640" y="5" width="204" height="567" frameX="0" frameY="-4" frameWidth="225" frameHeight="570"/>
+</TextureAtlas>

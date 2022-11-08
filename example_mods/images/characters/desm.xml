@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="desm.png">
+<SubTexture name="desm idle0000" x="0" y="0" width="800" height="850" frameX="0" frameY="0" frameWidth="800" frameHeight="850" />
+<SubTexture name="desm idle0001" x="800" y="0" width="800" height="850" frameX="0" frameY="0" frameWidth="800" frameHeight="850" />
+<SubTexture name="desm idle0002" x="1600" y="0" width="800" height="850" frameX="0" frameY="0" frameWidth="800" frameHeight="850" />
+<SubTexture name="desm idle0003" x="0" y="850" width="800" height="850" frameX="0" frameY="0" frameWidth="800" frameHeight="850" />
+<SubTexture name="desm idle0004" x="800" y="850" width="800" height="850" frameX="0" frameY="0" frameWidth="800" frameHeight="850" />
+<SubTexture name="desm idle0005" x="1600" y="850" width="800" height="850" frameX="0" frameY="0" frameWidth="800" frameHeight="850" />
+<SubTexture name="desm down0000" x="2400" y="0" width="800" height="850" frameX="0" frameY="0" frameWidth="800" frameHeight="850" />
+<SubTexture name="desm down0001" x="2400" y="850" width="800" height="850" frameX="0" frameY="0" frameWidth="800" frameHeight="850" />
+<SubTexture name="desm down0002" x="0" y="1700" width="800" height="850" frameX="0" frameY="0" frameWidth="800" frameHeight="850" />
+<SubTexture name="desm left0000" x="1600" y="1700" width="800" height="850" frameX="0" frameY="0" frameWidth="800" frameHeight="850" />
+<SubTexture name="desm left0001" x="2400" y="1700" width="800" height="850" frameX="0" frameY="0" frameWidth="800" frameHeight="850" />
+<SubTexture name="desm left0002" x="3200" y="0" width="800" height="850" frameX="0" frameY="0" frameWidth="800" frameHeight="850" />
+<SubTexture name="desm right0000" x="3200" y="1700" width="800" height="850" frameX="0" frameY="0" frameWidth="800" frameHeight="850" />
+<SubTexture name="desm right0001" x="0" y="2550" width="800" height="850" frameX="0" frameY="0" frameWidth="800" frameHeight="850" />
+<SubTexture name="desm right0002" x="800" y="2550" width="800" height="850" frameX="0" frameY="0" frameWidth="800" frameHeight="850" />
+<SubTexture name="desm up0000" x="2400" y="2550" width="800" height="850" frameX="0" frameY="0" frameWidth="800" frameHeight="850" />
+<SubTexture name="desm up0001" x="3200" y="2550" width="800" height="850" frameX="0" frameY="0" frameWidth="800" frameHeight="850" />
+<SubTexture name="desm up0002" x="4000" y="0" width="800" height="850" frameX="0" frameY="0" frameWidth="800" frameHeight="850" />
+</TextureAtlas>

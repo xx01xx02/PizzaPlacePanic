@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "desleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				20
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "desdown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				40
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "desup",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-50,
+				10
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "desright",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				20
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "sed dance idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "sed left"
+		},
+		{
+			"offsets": [
+				0,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "sed sing right"
+		},
+		{
+			"offsets": [
+				0,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "sed UP NOTE"
+		},
+		{
+			"offsets": [
+				0,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "sed DOWN note"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/swagmangang",
+	"position": [
+		380,
+		280
+	],
+	"healthicon": "undertale",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-410,
+		-110
+	],
+	"sing_duration": 6.1,
+	"scale": 2
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-129,
+				-297
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "snickexe left"
+		},
+		{
+			"offsets": [
+				0,
+				-440
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "snickexe down"
+		},
+		{
+			"offsets": [
+				-156,
+				-240
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "snickexe up"
+		},
+		{
+			"offsets": [
+				-140,
+				-303
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "snickexe right"
+		},
+		{
+			"offsets": [
+				-150,
+				-290
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "snickexe idle"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/snickexe_animations",
+	"position": [
+		10,
+		-30
+	],
+	"healthicon": "snickexe",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		-480,
+		280
+	],
+	"sing_duration": 6.1,
+	"scale": 5.8
+}

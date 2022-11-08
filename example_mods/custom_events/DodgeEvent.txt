@@ -1,0 +1,3 @@
+Shoots a fucking laser at you
+Value1 is how much time you have to dodge.
+Value2 not defined

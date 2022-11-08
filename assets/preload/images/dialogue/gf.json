@@ -1,0 +1,102 @@
+{
+	"dialogue_pos": "center",
+	"position": [
+		0,
+		140
+	],
+	"scale": 1.4,
+	"animations": [
+		{
+			"loop_name": "default",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "default",
+			"anim": "default",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "happy",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "happy",
+			"anim": "happy",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "bruh",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "bruh",
+			"anim": "bruh",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "surprised",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "surprised",
+			"anim": "surprised",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "kitty",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "kitty",
+			"anim": "kitty",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "XP",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "XP",
+			"anim": "XP",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "laugh",
+			"idle_offsets": [
+				30,
+				-10
+			],
+			"idle_name": "laugh",
+			"anim": "laugh",
+			"loop_offsets": [
+				30,
+				-10
+			]
+		}
+	],
+	"image": "GF_Dialogue"
+}

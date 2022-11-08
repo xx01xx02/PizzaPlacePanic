@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pizza token color.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="pizza token0000" x="5" y="5" width="96" height="96"/>
+	<SubTexture name="pizza token0001" x="5" y="5" width="96" height="96"/>
+	<SubTexture name="pizza token0002" x="106" y="5" width="95" height="96" frameX="0" frameY="0" frameWidth="96" frameHeight="96"/>
+	<SubTexture name="pizza token0003" x="106" y="5" width="95" height="96" frameX="0" frameY="0" frameWidth="96" frameHeight="96"/>
+</TextureAtlas>

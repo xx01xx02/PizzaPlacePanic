@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="susdes.png"><SubTexture name="susdes idle0000" x="1914" y="0" width="415" height="674" frameX="-171" frameY="-136" frameWidth="800" frameHeight="850" />
+<SubTexture name="susdes idle0001" x="1373" y="736" width="415" height="680" frameX="-171" frameY="-130" frameWidth="800" frameHeight="850" />
+<SubTexture name="susdes idle0002" x="415" y="736" width="415" height="691" frameX="-171" frameY="-119" frameWidth="800" frameHeight="850" />
+<SubTexture name="susdes idle0003" x="0" y="736" width="415" height="700" frameX="-171" frameY="-110" frameWidth="800" frameHeight="850" />
+<SubTexture name="susdes idle0004" x="957" y="0" width="414" height="708" frameX="-171" frameY="-102" frameWidth="800" frameHeight="850" />
+<SubTexture name="susdes idle0005" x="543" y="0" width="414" height="715" frameX="-171" frameY="-95" frameWidth="800" frameHeight="850" />
+<SubTexture name="susdes down0000" x="1374" y="2090" width="692" height="221" frameX="-84" frameY="-597" frameWidth="800" frameHeight="850" />
+<SubTexture name="susdes down0001" x="687" y="2090" width="687" height="282" frameX="-84" frameY="-536" frameWidth="800" frameHeight="850" />
+<SubTexture name="susdes down0002" x="0" y="2090" width="687" height="328" frameX="-84" frameY="-490" frameWidth="800" frameHeight="850" />
+<SubTexture name="susdes left0000" x="0" y="1436" width="583" height="654" frameX="-14" frameY="-159" frameWidth="800" frameHeight="850" />
+<SubTexture name="susdes left0001" x="583" y="1436" width="559" height="654" frameX="-39" frameY="-159" frameWidth="800" frameHeight="850" />
+<SubTexture name="susdes left0002" x="1142" y="1436" width="507" height="654" frameX="-56" frameY="-159" frameWidth="800" frameHeight="850" />
+<SubTexture name="susdes right0000" x="2329" y="0" width="436" height="439" frameX="-320" frameY="-337" frameWidth="800" frameHeight="850" />
+<SubTexture name="susdes right0001" x="1649" y="1436" width="437" height="468" frameX="-283" frameY="-308" frameWidth="800" frameHeight="850" />
+<SubTexture name="susdes right0002" x="1914" y="674" width="369" height="444" frameX="-307" frameY="-332" frameWidth="800" frameHeight="850" />
+<SubTexture name="susdes up0000" x="0" y="0" width="543" height="736" frameX="-112" frameY="-79" frameWidth="800" frameHeight="850" />
+<SubTexture name="susdes up0001" x="1371" y="0" width="543" height="701" frameX="-112" frameY="-113" frameWidth="800" frameHeight="850" />
+<SubTexture name="susdes up0002" x="830" y="736" width="543" height="687" frameX="-112" frameY="-127" frameWidth="800" frameHeight="850" />
+</TextureAtlas>

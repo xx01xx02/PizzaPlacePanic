@@ -1,0 +1,49 @@
+{
+	"storyName": "the other dudes",
+	"difficulties": "easy, normal, hard,",
+	"hideFreeplay": false,
+	"weekBackground": "halloween",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "week1",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"desron",
+			"coolswag",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"reskin",
+			"norwegian",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"megalomaniac",
+			"UTdes",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "zamn"
+}

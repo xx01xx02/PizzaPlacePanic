@@ -1,0 +1,124 @@
+{
+	"dialogue": [
+		{
+			"expression": "default",
+			"text": "wow this   honesymon or somethingn is fucking awesome gf",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "bruh",
+			"text": "although i do not see the food and i am hungry very much although...",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "surprised",
+			"text": "Boyfriend, there aren't really any resteraunts near us right now.",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "default",
+			"text": "gf you bumbling fucking idiot theres some pizza like RIGHT there",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "bruh",
+			"text": "Don't Fucking Call Me That Asshole",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "vomit",
+			"text": "ok sorry",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "what in sam fuck are you doing here like actually",
+			"boxState": "normal",
+			"portrait": "desdesport",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "why are you so small. small ass motherfucker",
+			"boxState": "normal",
+			"portrait": "desdesconfuse",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "hi fuckhead i want some pizza",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "ok",
+			"boxState": "normal",
+			"portrait": "desdesport",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "default",
+			"text": "wow whoever that was just now we should bully him and get our pizza for free maybe",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "default",
+			"text": "That sounds fun actually.",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "pizza has been finished in the span of like 2 dialouge lines somehow fucking idk",
+			"boxState": "normal",
+			"portrait": "desdesport",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "vomit",
+			"text": "ok ill pay like 3 quid or somethign but do you want to have a fuckging rap battle or smthjn",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "that sounds fun actually alr",
+			"boxState": "normal",
+			"portrait": "desdesconfuse",
+			"speed": 0.05,
+			"sound": ""
+		}
+	]
+}

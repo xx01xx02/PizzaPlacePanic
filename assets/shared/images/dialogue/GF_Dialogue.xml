@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="portrait GF.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="default0000" x="0" y="0" width="409" height="245"/>
+	<SubTexture name="happy0000" x="409" y="0" width="409" height="245"/>
+	<SubTexture name="bruh0000" x="818" y="0" width="409" height="245"/>
+	<SubTexture name="scared0000" x="0" y="245" width="409" height="245"/>
+	<SubTexture name="surprised0000" x="409" y="245" width="409" height="245"/>
+	<SubTexture name="kitty0000" x="818" y="245" width="409" height="245"/>
+	<SubTexture name="XP0000" x="0" y="490" width="409" height="245"/>
+	<SubTexture name="demon0000" x="409" y="490" width="409" height="245"/>
+	<SubTexture name="thinking0000" x="818" y="490" width="409" height="245"/>
+	<SubTexture name="crying0000" x="0" y="735" width="409" height="245"/>
+	<SubTexture name="flushed0000" x="818" y="735" width="409" height="245"/>
+	<SubTexture name="laugh0000" x="0" y="980" width="409" height="245"/>
+</TextureAtlas>

@@ -1,0 +1,49 @@
+{
+	"storyName": "pizza with a topping of funk",
+	"difficulties": "easy, normal, hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"uninvited",
+			"des",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"disarray",
+			"des",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"resistance",
+			"despissed",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "zamp"
+}

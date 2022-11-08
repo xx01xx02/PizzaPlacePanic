@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="blasterwarn.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="blasterwarn0000" x="0" y="0" width="360" height="490"/>
+	<SubTexture name="blasterwarn0001" x="0" y="0" width="360" height="490"/>
+	<SubTexture name="blasterwarn0002" x="0" y="0" width="360" height="490"/>
+	<SubTexture name="blasterwarn0003" x="0" y="0" width="360" height="490"/>
+	<SubTexture name="blasterwarn0004" x="0" y="0" width="360" height="490"/>
+	<SubTexture name="blasterwarn0005" x="0" y="0" width="360" height="490"/>
+	<SubTexture name="blasterwarn0006" x="0" y="0" width="360" height="490"/>
+	<SubTexture name="blasterwarn0007" x="0" y="0" width="360" height="490"/>
+	<SubTexture name="blasterwarn0008" x="0" y="0" width="360" height="490"/>
+	<SubTexture name="blasterwarn0009" x="0" y="0" width="360" height="490"/>
+	<SubTexture name="blasterwarn0010" x="0" y="0" width="360" height="490"/>
+	<SubTexture name="blasterwarn0011" x="0" y="0" width="360" height="490"/>
+	<SubTexture name="blasterwarn0012" x="360" y="0" width="360" height="490"/>
+	<SubTexture name="blasterwarn0013" x="360" y="0" width="360" height="490"/>
+	<SubTexture name="blasterwarn0014" x="360" y="0" width="360" height="490"/>
+	<SubTexture name="blasterwarn0015" x="360" y="0" width="360" height="490"/>
+	<SubTexture name="blasterwarn0016" x="360" y="0" width="360" height="490"/>
+	<SubTexture name="blasterwarn0017" x="360" y="0" width="360" height="490"/>
+	<SubTexture name="blasterwarn0018" x="360" y="0" width="360" height="490"/>
+	<SubTexture name="blasterwarn0019" x="360" y="0" width="360" height="490"/>
+	<SubTexture name="blasterwarn0020" x="360" y="0" width="360" height="490"/>
+	<SubTexture name="blasterwarn0021" x="360" y="0" width="360" height="490"/>
+	<SubTexture name="blasterwarn0022" x="360" y="0" width="360" height="490"/>
+	<SubTexture name="blasterwarn0023" x="360" y="0" width="360" height="490"/>
+</TextureAtlas>

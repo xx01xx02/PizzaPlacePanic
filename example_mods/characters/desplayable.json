@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				186,
+				133
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "scott idle dance"
+		},
+		{
+			"offsets": [
+				177,
+				150
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "scott Sing Note LEFT"
+		},
+		{
+			"offsets": [
+				170,
+				120
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "scott Sing Note DOWN"
+		},
+		{
+			"offsets": [
+				135,
+				120
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "scott Sing Note UP"
+		},
+		{
+			"offsets": [
+				90,
+				167
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "scott Sing Note RIGHT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/scottfuckingfuming",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "desfuming",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

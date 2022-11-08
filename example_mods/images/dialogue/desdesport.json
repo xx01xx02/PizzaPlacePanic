@@ -1,0 +1,167 @@
+{
+	"position": [
+		130,
+		90
+	],
+	"dialogue_pos": "left",
+	"scale": 1.35,
+	"image": "desdesport",
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "default",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "default",
+			"loop_name": "default"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "weird",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "weird",
+			"loop_name": "weird"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "bruh",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "bruh",
+			"loop_name": "bruh"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "worried",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "worried",
+			"loop_name": "worried"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "surprised",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "surprised",
+			"loop_name": "surprised"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "happy",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "happy",
+			"loop_name": "happy"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "sweating",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "sweating",
+			"loop_name": "sweating"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "angry",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "angry",
+			"loop_name": "angry"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "why",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "why",
+			"loop_name": "why"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "vomit",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "vomit",
+			"loop_name": "vomit"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "laugh",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "laugh",
+			"loop_name": "laugh"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "relaxed",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "relaxed",
+			"loop_name": "relaxed"
+		}
+	]
+}

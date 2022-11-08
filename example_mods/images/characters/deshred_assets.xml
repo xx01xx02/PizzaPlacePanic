@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="deshred_assets.png">
+<SubTexture name="deshred idle0000" x="0" y="0" width="200" height="200"/>
+<SubTexture name="deshred idle0001" x="200" y="0" width="200" height="200"/>
+<SubTexture name="deshred idle0002" x="400" y="0" width="200" height="200"/>
+<SubTexture name="deshred idle0003" x="600" y="000" width="200" height="200"/>
+<SubTexture name="deshred up0000" x="400" y="400" width="200" height="200"/>
+<SubTexture name="deshred up0001" x="600" y="400" width="200" height="200"/>
+<SubTexture name="deshred right0000" x="0" y="400" width="200" height="200"/>
+<SubTexture name="deshred right0001" x="200" y="400" width="200" height="200"/>
+<SubTexture name="deshred left0000" x="400" y="200" width="200" height="200"/>
+<SubTexture name="deshred left0001" x="600" y="200" width="200" height="200"/>
+<SubTexture name="deshred down0000" x="0" y="200" width="200" height="200"/>
+<SubTexture name="deshred down0001" x="200" y="200" width="200" height="200"/>
+</TextureAtlas>

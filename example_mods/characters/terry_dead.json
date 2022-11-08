@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 18,
+			"anim": "deathLoop",
+			"loop": true,
+			"name": "terry_dead deathloop"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 5,
+			"anim": "firstDeath",
+			"loop": false,
+			"name": "terry_dead deathfirst"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "deathConfirm",
+			"loop": false,
+			"name": "terry_dead deathconfirm"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/terry_dead",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "terry",
+	"flip_x": true,
+	"healthbar_colors": [
+		88,
+		101,
+		118
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

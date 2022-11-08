@@ -1,0 +1,221 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "bob"
+		},
+		{
+			"offsets": [
+				5,
+				-6
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "bob"
+		},
+		{
+			"offsets": [
+				-10,
+				-50
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "bob"
+		},
+		{
+			"offsets": [
+				-29,
+				27
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "bob"
+		},
+		{
+			"offsets": [
+				-48,
+				-7
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "bob"
+		},
+		{
+			"offsets": [
+				7,
+				19
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "bob"
+		},
+		{
+			"offsets": [
+				-15,
+				-19
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "bob"
+		},
+		{
+			"offsets": [
+				-36,
+				27
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "bob"
+		},
+		{
+			"offsets": [
+				-44,
+				22
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "bob"
+		},
+		{
+			"offsets": [
+				-3,
+				5
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "hey",
+			"loop": false,
+			"name": "bob"
+		},
+		{
+			"offsets": [
+				15,
+				18
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "hurt",
+			"loop": false,
+			"name": "bob"
+		},
+		{
+			"offsets": [
+				-4,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "scared",
+			"loop": false,
+			"name": "bob"
+		},
+		{
+			"offsets": [
+				37,
+				11
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "firstDeath",
+			"loop": false,
+			"name": "bob"
+		},
+		{
+			"offsets": [
+				37,
+				5
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathLoop",
+			"loop": false,
+			"name": "bob"
+		},
+		{
+			"offsets": [
+				37,
+				69
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathConfirm",
+			"loop": false,
+			"name": "bob"
+		},
+		{
+			"offsets": [
+				-10,
+				-16
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "dodge",
+			"loop": false,
+			"name": "bob"
+		},
+		{
+			"offsets": [
+				294,
+				267
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "attack",
+			"loop": false,
+			"name": "bob"
+		},
+		{
+			"offsets": [
+				-40,
+				-40
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "pre-attack",
+			"loop": false,
+			"name": "bob"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pixelbob",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

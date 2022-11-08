@@ -1,0 +1,84 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "suck my nuts you actually suck balls at rapping good lord"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "you're a complete loser im not paying for your shit fuckin pizza bro"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "desdesmadport",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "good GOD shut the FUCK UP"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "nah you spiky haired shitlet"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "desconfusemad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "HOW ARE YOUTHIS INSUFFERABLE"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "dont care mate"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "dont care mate"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "desconfusemad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "once i sing this song i hope to god you dont stand anywhere near this fucking place ever again good god"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "free pizza teehee"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "desconfusemad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "fuck off"
+		}
+	]
+}

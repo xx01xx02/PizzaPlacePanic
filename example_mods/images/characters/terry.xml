@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="terry.png">
+	<!-- Created with Adobe Animate version 22.0.6.202 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="terry down0000" x="0" y="0" width="371" height="278" frameX="-2" frameY="-5" frameWidth="373" frameHeight="283"/>
+	<SubTexture name="terry down0001" x="371" y="0" width="371" height="278" frameX="-2" frameY="-5" frameWidth="373" frameHeight="283"/>
+	<SubTexture name="terry down0002" x="742" y="0" width="370" height="281" frameX="-1" frameY="-2" frameWidth="373" frameHeight="283"/>
+	<SubTexture name="terry down0003" x="1112" y="0" width="368" height="283" frameX="-1" frameY="0" frameWidth="373" frameHeight="283"/>
+	<SubTexture name="terry down0004" x="1480" y="0" width="369" height="283" frameX="0" frameY="0" frameWidth="373" frameHeight="283"/>
+	<SubTexture name="terry down0005" x="1480" y="0" width="369" height="283" frameX="0" frameY="0" frameWidth="373" frameHeight="283"/>
+	<SubTexture name="terry down0006" x="1480" y="0" width="369" height="283" frameX="0" frameY="0" frameWidth="373" frameHeight="283"/>
+	<SubTexture name="terry down0007" x="1480" y="0" width="369" height="283" frameX="0" frameY="0" frameWidth="373" frameHeight="283"/>
+	<SubTexture name="terry down0008" x="1480" y="0" width="369" height="283" frameX="0" frameY="0" frameWidth="373" frameHeight="283"/>
+	<SubTexture name="terry down0009" x="1480" y="0" width="369" height="283" frameX="0" frameY="0" frameWidth="373" frameHeight="283"/>
+	<SubTexture name="terry idle0000" x="0" y="283" width="388" height="301" frameX="0" frameY="-1" frameWidth="388" frameHeight="302"/>
+	<SubTexture name="terry idle0001" x="388" y="283" width="388" height="302"/>
+	<SubTexture name="terry idle0002" x="776" y="283" width="382" height="302" frameX="-3" frameY="0" frameWidth="388" frameHeight="302"/>
+	<SubTexture name="terry idle0003" x="1158" y="283" width="377" height="302" frameX="-5" frameY="0" frameWidth="388" frameHeight="302"/>
+	<SubTexture name="terry idle0004" x="1535" y="283" width="376" height="302" frameX="-5" frameY="0" frameWidth="388" frameHeight="302"/>
+	<SubTexture name="terry idle0005" x="1535" y="283" width="376" height="302" frameX="-5" frameY="0" frameWidth="388" frameHeight="302"/>
+	<SubTexture name="terry idle0006" x="1535" y="283" width="376" height="302" frameX="-5" frameY="0" frameWidth="388" frameHeight="302"/>
+	<SubTexture name="terry idle0007" x="1535" y="283" width="376" height="302" frameX="-5" frameY="0" frameWidth="388" frameHeight="302"/>
+	<SubTexture name="terry idle0008" x="1535" y="283" width="376" height="302" frameX="-5" frameY="0" frameWidth="388" frameHeight="302"/>
+	<SubTexture name="terry idle0009" x="1535" y="283" width="376" height="302" frameX="-5" frameY="0" frameWidth="388" frameHeight="302"/>
+	<SubTexture name="terry left0000" x="0" y="585" width="359" height="271" frameX="0" frameY="0" frameWidth="374" frameHeight="271"/>
+	<SubTexture name="terry left0001" x="359" y="585" width="359" height="271" frameX="-1" frameY="0" frameWidth="374" frameHeight="271"/>
+	<SubTexture name="terry left0002" x="718" y="585" width="361" height="271" frameX="-6" frameY="0" frameWidth="374" frameHeight="271"/>
+	<SubTexture name="terry left0003" x="1079" y="585" width="363" height="271" frameX="-10" frameY="0" frameWidth="374" frameHeight="271"/>
+	<SubTexture name="terry left0004" x="1442" y="585" width="364" height="271" frameX="-10" frameY="0" frameWidth="374" frameHeight="271"/>
+	<SubTexture name="terry left0005" x="1442" y="585" width="364" height="271" frameX="-10" frameY="0" frameWidth="374" frameHeight="271"/>
+	<SubTexture name="terry left0006" x="1442" y="585" width="364" height="271" frameX="-10" frameY="0" frameWidth="374" frameHeight="271"/>
+	<SubTexture name="terry left0007" x="1442" y="585" width="364" height="271" frameX="-10" frameY="0" frameWidth="374" frameHeight="271"/>
+	<SubTexture name="terry left0008" x="1442" y="585" width="364" height="271" frameX="-10" frameY="0" frameWidth="374" frameHeight="271"/>
+	<SubTexture name="terry left0009" x="1442" y="585" width="364" height="271" frameX="-10" frameY="0" frameWidth="374" frameHeight="271"/>
+	<SubTexture name="terry right0000" x="0" y="856" width="366" height="270" frameX="-14" frameY="0" frameWidth="380" frameHeight="270"/>
+	<SubTexture name="terry right0001" x="366" y="856" width="366" height="270" frameX="-13" frameY="0" frameWidth="380" frameHeight="270"/>
+	<SubTexture name="terry right0002" x="732" y="856" width="364" height="270" frameX="-7" frameY="0" frameWidth="380" frameHeight="270"/>
+	<SubTexture name="terry right0003" x="1096" y="856" width="362" height="270" frameX="-1" frameY="0" frameWidth="380" frameHeight="270"/>
+	<SubTexture name="terry right0004" x="1458" y="856" width="362" height="270" frameX="0" frameY="0" frameWidth="380" frameHeight="270"/>
+	<SubTexture name="terry right0005" x="1458" y="856" width="362" height="270" frameX="0" frameY="0" frameWidth="380" frameHeight="270"/>
+	<SubTexture name="terry right0006" x="1458" y="856" width="362" height="270" frameX="0" frameY="0" frameWidth="380" frameHeight="270"/>
+	<SubTexture name="terry right0007" x="1458" y="856" width="362" height="270" frameX="0" frameY="0" frameWidth="380" frameHeight="270"/>
+	<SubTexture name="terry right0008" x="0" y="1126" width="362" height="270" frameX="0" frameY="0" frameWidth="380" frameHeight="270"/>
+	<SubTexture name="terry right0009" x="0" y="1126" width="362" height="270" frameX="0" frameY="0" frameWidth="380" frameHeight="270"/>
+	<SubTexture name="terry up0000" x="362" y="1126" width="425" height="279" frameX="0" frameY="0" frameWidth="436" frameHeight="280"/>
+	<SubTexture name="terry up0001" x="787" y="1126" width="425" height="278" frameX="0" frameY="-1" frameWidth="436" frameHeight="280"/>
+	<SubTexture name="terry up0002" x="1212" y="1126" width="428" height="275" frameX="-2" frameY="-5" frameWidth="436" frameHeight="280"/>
+	<SubTexture name="terry up0003" x="0" y="1405" width="430" height="271" frameX="-5" frameY="-9" frameWidth="436" frameHeight="280"/>
+	<SubTexture name="terry up0004" x="430" y="1405" width="431" height="271" frameX="-5" frameY="-9" frameWidth="436" frameHeight="280"/>
+	<SubTexture name="terry up0005" x="430" y="1405" width="431" height="271" frameX="-5" frameY="-9" frameWidth="436" frameHeight="280"/>
+	<SubTexture name="terry up0006" x="430" y="1405" width="431" height="271" frameX="-5" frameY="-9" frameWidth="436" frameHeight="280"/>
+	<SubTexture name="terry up0007" x="430" y="1405" width="431" height="271" frameX="-5" frameY="-9" frameWidth="436" frameHeight="280"/>
+	<SubTexture name="terry up0008" x="430" y="1405" width="431" height="271" frameX="-5" frameY="-9" frameWidth="436" frameHeight="280"/>
+	<SubTexture name="terry up0009" x="430" y="1405" width="431" height="271" frameX="-5" frameY="-9" frameWidth="436" frameHeight="280"/>
+	<SubTexture name="terry up0010" x="430" y="1405" width="431" height="271" frameX="-5" frameY="-9" frameWidth="436" frameHeight="280"/>
+</TextureAtlas>

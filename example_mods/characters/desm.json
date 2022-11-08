@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "desm idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "desm left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "desm down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "desm up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "desm right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/desm",
+	"position": [
+		-30,
+		100
+	],
+	"healthicon": "des",
+	"flip_x": false,
+	"healthbar_colors": [
+		85,
+		0,
+		215
+	],
+	"camera_position": [
+		80,
+		-40
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

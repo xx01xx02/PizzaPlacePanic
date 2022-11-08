@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				20
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "das",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				20
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "das",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				20
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "das",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				20
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "das",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				20
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "das",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/dasdas",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "das",
+	"flip_x": false,
+	"healthbar_colors": [
+		155,
+		75,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

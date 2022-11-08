@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tomfoolerydes.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="des down0000" x="5" y="5" width="265" height="497" frameX="0" frameY="-5" frameWidth="265" frameHeight="502"/>
+	<SubTexture name="des down0001" x="5" y="5" width="265" height="497" frameX="0" frameY="-5" frameWidth="265" frameHeight="502"/>
+	<SubTexture name="des down0002" x="275" y="5" width="250" height="501" frameX="-7" frameY="-1" frameWidth="265" frameHeight="502"/>
+	<SubTexture name="des down0003" x="275" y="5" width="250" height="501" frameX="-7" frameY="-1" frameWidth="265" frameHeight="502"/>
+	<SubTexture name="des down0004" x="530" y="5" width="244" height="502" frameX="-7" frameY="0" frameWidth="265" frameHeight="502"/>
+	<SubTexture name="des down0005" x="530" y="5" width="244" height="502" frameX="-7" frameY="0" frameWidth="265" frameHeight="502"/>
+	<SubTexture name="des down0006" x="530" y="5" width="244" height="502" frameX="-7" frameY="0" frameWidth="265" frameHeight="502"/>
+	<SubTexture name="des down0007" x="530" y="5" width="244" height="502" frameX="-7" frameY="0" frameWidth="265" frameHeight="502"/>
+	<SubTexture name="des idle0000" x="779" y="5" width="276" height="536" frameX="0" frameY="-17" frameWidth="277" frameHeight="553"/>
+	<SubTexture name="des idle0001" x="779" y="5" width="276" height="536" frameX="0" frameY="-17" frameWidth="277" frameHeight="553"/>
+	<SubTexture name="des idle0002" x="1060" y="5" width="275" height="541" frameX="-2" frameY="-12" frameWidth="277" frameHeight="553"/>
+	<SubTexture name="des idle0003" x="1060" y="5" width="275" height="541" frameX="-2" frameY="-12" frameWidth="277" frameHeight="553"/>
+	<SubTexture name="des idle0004" x="1340" y="5" width="265" height="542" frameX="-3" frameY="-11" frameWidth="277" frameHeight="553"/>
+	<SubTexture name="des idle0005" x="1340" y="5" width="265" height="542" frameX="-3" frameY="-11" frameWidth="277" frameHeight="553"/>
+	<SubTexture name="des idle0006" x="1610" y="5" width="266" height="550" frameX="-3" frameY="-3" frameWidth="277" frameHeight="553"/>
+	<SubTexture name="des idle0007" x="1610" y="5" width="266" height="550" frameX="-3" frameY="-3" frameWidth="277" frameHeight="553"/>
+	<SubTexture name="des idle0008" x="5" y="560" width="265" height="553" frameX="-3" frameY="0" frameWidth="277" frameHeight="553"/>
+	<SubTexture name="des idle0009" x="5" y="560" width="265" height="553" frameX="-3" frameY="0" frameWidth="277" frameHeight="553"/>
+	<SubTexture name="des idle0010" x="5" y="560" width="265" height="553" frameX="-3" frameY="0" frameWidth="277" frameHeight="553"/>
+	<SubTexture name="des idle0011" x="5" y="560" width="265" height="553" frameX="-3" frameY="0" frameWidth="277" frameHeight="553"/>
+	<SubTexture name="des idle0012" x="5" y="560" width="265" height="553" frameX="-3" frameY="0" frameWidth="277" frameHeight="553"/>
+	<SubTexture name="des idle0013" x="5" y="560" width="265" height="553" frameX="-3" frameY="0" frameWidth="277" frameHeight="553"/>
+	<SubTexture name="des left0000" x="275" y="560" width="253" height="528"/>
+	<SubTexture name="des left0001" x="275" y="560" width="253" height="528"/>
+	<SubTexture name="des left0002" x="533" y="560" width="241" height="525" frameX="-12" frameY="-3" frameWidth="253" frameHeight="528"/>
+	<SubTexture name="des left0003" x="533" y="560" width="241" height="525" frameX="-12" frameY="-3" frameWidth="253" frameHeight="528"/>
+	<SubTexture name="des left0004" x="779" y="560" width="236" height="522" frameX="-16" frameY="-6" frameWidth="253" frameHeight="528"/>
+	<SubTexture name="des left0005" x="779" y="560" width="236" height="522" frameX="-16" frameY="-6" frameWidth="253" frameHeight="528"/>
+	<SubTexture name="des left0006" x="779" y="560" width="236" height="522" frameX="-16" frameY="-6" frameWidth="253" frameHeight="528"/>
+	<SubTexture name="des left0007" x="779" y="560" width="236" height="522" frameX="-16" frameY="-6" frameWidth="253" frameHeight="528"/>
+	<SubTexture name="des right0000" x="1020" y="560" width="317" height="570"/>
+	<SubTexture name="des right0001" x="1020" y="560" width="317" height="570"/>
+	<SubTexture name="des right0002" x="1342" y="560" width="305" height="568" frameX="0" frameY="-2" frameWidth="317" frameHeight="570"/>
+	<SubTexture name="des right0003" x="1342" y="560" width="305" height="568" frameX="0" frameY="-2" frameWidth="317" frameHeight="570"/>
+	<SubTexture name="des right0004" x="1652" y="560" width="296" height="568" frameX="0" frameY="-2" frameWidth="317" frameHeight="570"/>
+	<SubTexture name="des right0005" x="1652" y="560" width="296" height="568" frameX="0" frameY="-2" frameWidth="317" frameHeight="570"/>
+	<SubTexture name="des right0006" x="1652" y="560" width="296" height="568" frameX="0" frameY="-2" frameWidth="317" frameHeight="570"/>
+	<SubTexture name="des right0007" x="1652" y="560" width="296" height="568" frameX="0" frameY="-2" frameWidth="317" frameHeight="570"/>
+	<SubTexture name="des up0000" x="5" y="1135" width="228" height="591" frameX="-6" frameY="0" frameWidth="247" frameHeight="591"/>
+	<SubTexture name="des up0001" x="5" y="1135" width="228" height="591" frameX="-6" frameY="0" frameWidth="247" frameHeight="591"/>
+	<SubTexture name="des up0002" x="238" y="1135" width="242" height="588" frameX="-2" frameY="-3" frameWidth="247" frameHeight="591"/>
+	<SubTexture name="des up0003" x="238" y="1135" width="242" height="588" frameX="-2" frameY="-3" frameWidth="247" frameHeight="591"/>
+	<SubTexture name="des up0004" x="485" y="1135" width="247" height="582" frameX="0" frameY="-9" frameWidth="247" frameHeight="591"/>
+	<SubTexture name="des up0005" x="485" y="1135" width="247" height="582" frameX="0" frameY="-9" frameWidth="247" frameHeight="591"/>
+	<SubTexture name="des up0006" x="485" y="1135" width="247" height="582" frameX="0" frameY="-9" frameWidth="247" frameHeight="591"/>
+	<SubTexture name="des up0007" x="485" y="1135" width="247" height="582" frameX="0" frameY="-9" frameWidth="247" frameHeight="591"/>
+</TextureAtlas>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="terry_dead.png">
+<SubTexture name="terry_dead deathloop0000" x="0" y="0" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="terry_dead deathloop0001" x="1280" y="0" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="terry_dead deathloop0002" x="0" y="720" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="terry_dead deathloop0003" x="1280" y="720" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="terry_dead deathloop0004" x="0" y="1440" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="terry_dead deathloop0005" x="1280" y="0" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="terry_dead deathloop0006" x="0" y="0" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="terry_dead deathfirst0000" x="1280" y="1440" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="terry_dead deathfirst0001" x="1280" y="1440" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="terry_dead deathfirst0002" x="1280" y="1440" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="terry_dead deathfirst0003" x="1280" y="1440" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="terry_dead deathfirst0004" x="1280" y="1440" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="terry_dead deathfirst0005" x="1280" y="1440" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="terry_dead deathfirst0006" x="1280" y="1440" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="terry_dead deathfirst0007" x="1280" y="1440" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="terry_dead deathfirst0008" x="1280" y="1440" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="terry_dead deathfirst0009" x="1280" y="1440" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="terry_dead deathfirst0010" x="1280" y="1440" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="terry_dead deathconfirm0000" x="2560" y="0" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="terry_dead deathconfirm0001" x="2560" y="720" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="terry_dead deathconfirm0002" x="2560" y="1440" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="terry_dead deathconfirm0003" x="0" y="2160" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-83,
+				-29
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "knightbop left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-105,
+				-28
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "knightbop right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/knight_has_a_gun",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		199,
+		131,
+		119
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

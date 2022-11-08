@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "des idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				23,
+				-25
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "des left"
+		},
+		{
+			"offsets": [
+				5,
+				-51
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "des down"
+		},
+		{
+			"offsets": [
+				-1,
+				37
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "des up"
+		},
+		{
+			"offsets": [
+				-2,
+				17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "des right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/tomfoolerydes",
+	"position": [
+		80,
+		190
+	],
+	"healthicon": "trollddes",
+	"flip_x": false,
+	"healthbar_colors": [
+		155,
+		75,
+		255
+	],
+	"camera_position": [
+		-10,
+		10
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

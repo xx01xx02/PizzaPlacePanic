@@ -1,0 +1,92 @@
+{
+	"dialogue": [
+		{
+			"expression": "default",
+			"text": "wow nice job losing dumbass",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "anyways wanna sing another song lol",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "you did not even pay for the fucking pizza asshole",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "desdesport"
+		},
+		{
+			"expression": "talk",
+			"text": "Don't fucking talk with that mid ass pizza motherfucker",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "both of you shut the FUCK up you havent even tried it you cockheads",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "desdesport"
+		},
+		{
+			"expression": "vomit",
+			"text": "",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "happy",
+			"text": "",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "bruh",
+			"text": "actually can you go back to speaking",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "desdesport"
+		},
+		{
+			"expression": "talk",
+			"text": "lmfaoaoaoaoaoaoaoa",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		}
+	]
+}

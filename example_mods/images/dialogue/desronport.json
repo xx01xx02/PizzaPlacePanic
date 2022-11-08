@@ -1,0 +1,167 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		130,
+		130
+	],
+	"scale": 1.35,
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "default",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "default",
+			"idle_name": "default"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "weird",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "weird",
+			"idle_name": "weird"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "bruh",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "bruh",
+			"idle_name": "bruh"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "worried",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "worried",
+			"idle_name": "worried"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "surprised",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "surprised",
+			"idle_name": "surprised"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "happy",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "happy",
+			"idle_name": "happy"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "sweating",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "sweating",
+			"idle_name": "sweating"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "angry",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "angry",
+			"idle_name": "angry"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "why",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "why",
+			"idle_name": "why"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "vomit",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "vomit",
+			"idle_name": "vomit"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "laugh",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "laugh",
+			"idle_name": "laugh"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "relaxed",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "relaxed",
+			"idle_name": "relaxed"
+		}
+	],
+	"image": "desronport"
+}

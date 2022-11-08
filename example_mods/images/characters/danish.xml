@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="danish.png"><SubTexture name="danish down0000" x="3232" y="0" width="455" height="1091" frameX="-178" frameY="-225" frameWidth="866" frameHeight="1390" />
+<SubTexture name="danish down0001" x="0" y="2462" width="455" height="753" frameX="-178" frameY="-563" frameWidth="866" frameHeight="1390" />
+<SubTexture name="danish down0002" x="3232" y="1091" width="455" height="911" frameX="-178" frameY="-405" frameWidth="866" frameHeight="1390" />
+<SubTexture name="danish idle0000" x="1152" y="1305" width="428" height="1150" frameX="-221" frameY="-166" frameWidth="866" frameHeight="1390" />
+<SubTexture name="danish idle0001" x="2804" y="0" width="428" height="1103" frameX="-221" frameY="-213" frameWidth="866" frameHeight="1390" />
+<SubTexture name="danish idle0002" x="2804" y="1103" width="428" height="907" frameX="-221" frameY="-409" frameWidth="866" frameHeight="1390" />
+<SubTexture name="danish idle0003" x="2804" y="0" width="428" height="1103" frameX="-221" frameY="-213" frameWidth="866" frameHeight="1390" />
+<SubTexture name="danish idle0004" x="1152" y="1305" width="428" height="1150" frameX="-221" frameY="-166" frameWidth="866" frameHeight="1390" />
+<SubTexture name="danish left0000" x="1580" y="1305" width="411" height="1136" frameX="-140" frameY="-193" frameWidth="866" frameHeight="1390" />
+<SubTexture name="danish left0001" x="1991" y="1305" width="490" height="1136" frameX="-62" frameY="-193" frameWidth="866" frameHeight="1390" />
+<SubTexture name="danish left0002" x="2510" y="0" width="294" height="1136" frameX="-257" frameY="-193" frameWidth="866" frameHeight="1390" />
+<SubTexture name="danish right0000" x="1859" y="0" width="651" height="1157" frameX="-149" frameY="-168" frameWidth="866" frameHeight="1390" />
+<SubTexture name="danish right0001" x="0" y="1305" width="708" height="1157" frameX="-149" frameY="-168" frameWidth="866" frameHeight="1390" />
+<SubTexture name="danish right0002" x="708" y="1305" width="444" height="1157" frameX="-148" frameY="-168" frameWidth="866" frameHeight="1390" />
+<SubTexture name="danish up0000" x="1279" y="0" width="580" height="1276" frameX="-145" frameY="-29" frameWidth="866" frameHeight="1390" />
+<SubTexture name="danish up0001" x="654" y="0" width="625" height="1291" frameX="-122" frameY="-14" frameWidth="866" frameHeight="1390" />
+<SubTexture name="danish up0002" x="0" y="0" width="654" height="1305" frameX="-106" frameY="0" frameWidth="866" frameHeight="1390" />
+</TextureAtlas>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="SenpaiOWO.png">
+<SubTexture name="idle0000" x="0" y="0" width="144" height="154" frameX="0" frameY="0" frameWidth="144" frameHeight="154" />
+<SubTexture name="idle0001" x="144" y="0" width="144" height="154" frameX="0" frameY="0" frameWidth="144" frameHeight="154" />
+<SubTexture name="idle0002" x="288" y="0" width="144" height="154" frameX="0" frameY="0" frameWidth="144" frameHeight="154" />
+<SubTexture name="idle0003" x="0" y="154" width="144" height="154" frameX="0" frameY="0" frameWidth="144" frameHeight="154" />
+<SubTexture name="left0000" x="144" y="154" width="144" height="154" frameX="0" frameY="0" frameWidth="144" frameHeight="154" />
+<SubTexture name="left0001" x="288" y="154" width="144" height="154" frameX="0" frameY="0" frameWidth="144" frameHeight="154" />
+<SubTexture name="down0000" x="0" y="308" width="144" height="154" frameX="0" frameY="0" frameWidth="144" frameHeight="154" />
+<SubTexture name="down0001" x="144" y="308" width="144" height="154" frameX="0" frameY="0" frameWidth="144" frameHeight="154" />
+<SubTexture name="right0000" x="288" y="308" width="144" height="154" frameX="0" frameY="0" frameWidth="144" frameHeight="154" />
+<SubTexture name="right0001" x="0" y="462" width="144" height="154" frameX="0" frameY="0" frameWidth="144" frameHeight="154" />
+<SubTexture name="up0000" x="144" y="462" width="144" height="154" frameX="0" frameY="0" frameWidth="144" frameHeight="154" />
+<SubTexture name="up0001" x="288" y="462" width="144" height="154" frameX="0" frameY="0" frameWidth="144" frameHeight="154" />
+</TextureAtlas>

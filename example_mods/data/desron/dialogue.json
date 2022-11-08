@@ -1,0 +1,68 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "default",
+			"text": "christ on a bike where the fuck are we"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "surprised",
+			"text": "Don't know honestly, tried to teleport you back home and now we're here."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "desronport",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "WUZUP GAMERZ!!!!!!!!!!!!!!!!!!!!!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "bruh",
+			"text": "what the fuck is that"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "desronport",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ITZ ME!!! DEZRON!!!!!!!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "desronport",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "THE BEZT FPZ PLAYER IN DA WORLD!!!!!!!!!!!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "relaxed",
+			"text": "hey dude you should uhhhh kinda uhhh rap battle i think that would be cool"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "desronport",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "fucking fine."
+		}
+	]
+}

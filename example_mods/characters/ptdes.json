@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-15,
+				90
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				-8,
+				90
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				0,
+				90
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				90
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Forward",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				11,
+				90
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Back",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Des_Big",
+	"position": [
+		80,
+		140
+	],
+	"healthicon": "despt",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		150,
+		0
+	],
+	"camera_position": [
+		150,
+		110
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

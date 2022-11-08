@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="desmpissed.png"><SubTexture name="desmpissed down0000" x="0" y="2051" width="476" height="653" frameX="-167" frameY="-159" frameWidth="800" frameHeight="850" />
+<SubTexture name="desmpissed down0001" x="476" y="2051" width="481" height="645" frameX="-167" frameY="-167" frameWidth="800" frameHeight="850" />
+<SubTexture name="desmpissed down0002" x="957" y="2051" width="485" height="638" frameX="-167" frameY="-174" frameWidth="800" frameHeight="850" />
+<SubTexture name="desmpissed idle0000" x="2526" y="0" width="437" height="654" frameX="-154" frameY="-157" frameWidth="800" frameHeight="850" />
+<SubTexture name="desmpissed idle0001" x="2097" y="0" width="429" height="660" frameX="-157" frameY="-151" frameWidth="800" frameHeight="850" />
+<SubTexture name="desmpissed idle0002" x="1416" y="1379" width="421" height="669" frameX="-161" frameY="-142" frameWidth="800" frameHeight="850" />
+<SubTexture name="desmpissed idle0003" x="1690" y="0" width="407" height="673" frameX="-169" frameY="-138" frameWidth="800" frameHeight="850" />
+<SubTexture name="desmpissed idle0004" x="919" y="697" width="399" height="679" frameX="-171" frameY="-131" frameWidth="800" frameHeight="850" />
+<SubTexture name="desmpissed left0000" x="1224" y="0" width="466" height="682" frameX="-168" frameY="-128" frameWidth="800" frameHeight="850" />
+<SubTexture name="desmpissed left0001" x="0" y="697" width="465" height="682" frameX="-168" frameY="-128" frameWidth="800" frameHeight="850" />
+<SubTexture name="desmpissed left0002" x="465" y="697" width="454" height="682" frameX="-169" frameY="-128" frameWidth="800" frameHeight="850" />
+<SubTexture name="desmpissed right0000" x="0" y="1379" width="468" height="672" frameX="-172" frameY="-138" frameWidth="800" frameHeight="850" />
+<SubTexture name="desmpissed right0001" x="468" y="1379" width="472" height="672" frameX="-173" frameY="-138" frameWidth="800" frameHeight="850" />
+<SubTexture name="desmpissed right0002" x="940" y="1379" width="476" height="671" frameX="-173" frameY="-139" frameWidth="800" frameHeight="850" />
+<SubTexture name="desmpissed up0000" x="815" y="0" width="409" height="684" frameX="-171" frameY="-126" frameWidth="800" frameHeight="850" />
+<SubTexture name="desmpissed up0001" x="406" y="0" width="409" height="692" frameX="-171" frameY="-119" frameWidth="800" frameHeight="850" />
+<SubTexture name="desmpissed up0002" x="0" y="0" width="406" height="697" frameX="-171" frameY="-115" frameWidth="800" frameHeight="850" />
+</TextureAtlas>
