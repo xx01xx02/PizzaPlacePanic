@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="mades.png"><SubTexture name="mades down0000" x="0" y="2559" width="485" height="544" frameX="-274" frameY="-390" frameWidth="900" frameHeight="950" />
+<SubTexture name="mades down0001" x="3077" y="0" width="476" height="550" frameX="-283" frameY="-384" frameWidth="900" frameHeight="950" />
+<SubTexture name="mades down0002" x="1891" y="831" width="470" height="560" frameX="-289" frameY="-374" frameWidth="900" frameHeight="950" />
+<SubTexture name="mades idle0000" x="1219" y="1762" width="617" height="756" frameX="-188" frameY="-180" frameWidth="900" frameHeight="950" />
+<SubTexture name="mades idle0001" x="605" y="1762" width="614" height="781" frameX="-188" frameY="-155" frameWidth="900" frameHeight="950" />
+<SubTexture name="mades idle0002" x="0" y="1762" width="605" height="797" frameX="-192" frameY="-139" frameWidth="900" frameHeight="950" />
+<SubTexture name="mades idle0003" x="2480" y="0" width="597" height="817" frameX="-197" frameY="-119" frameWidth="900" frameHeight="950" />
+<SubTexture name="mades idle0004" x="1891" y="0" width="589" height="831" frameX="-201" frameY="-105" frameWidth="900" frameHeight="950" />
+<SubTexture name="mades idle0005" x="942" y="897" width="581" height="841" frameX="-207" frameY="-95" frameWidth="900" frameHeight="950" />
+<SubTexture name="mades left0000" x="934" y="0" width="475" height="872" frameX="-128" frameY="-57" frameWidth="900" frameHeight="950" />
+<SubTexture name="mades left0001" x="1409" y="0" width="482" height="866" frameX="-126" frameY="-63" frameWidth="900" frameHeight="950" />
+<SubTexture name="mades left0002" x="459" y="897" width="483" height="861" frameX="-128" frameY="-68" frameWidth="900" frameHeight="950" />
+<SubTexture name="mades right0000" x="2445" y="1762" width="619" height="640" frameX="-219" frameY="-287" frameWidth="900" frameHeight="950" />
+<SubTexture name="mades right0001" x="1836" y="1762" width="609" height="646" frameX="-219" frameY="-281" frameWidth="900" frameHeight="950" />
+<SubTexture name="mades right0002" x="2480" y="817" width="578" height="651" frameX="-219" frameY="-276" frameWidth="900" frameHeight="950" />
+<SubTexture name="mades up0000" x="0" y="0" width="471" height="897" frameX="-160" frameY="-32" frameWidth="900" frameHeight="950" />
+<SubTexture name="mades up0001" x="471" y="0" width="463" height="879" frameX="-174" frameY="-49" frameWidth="900" frameHeight="950" />
+<SubTexture name="mades up0002" x="0" y="897" width="459" height="865" frameX="-185" frameY="-62" frameWidth="900" frameHeight="950" />
+</TextureAtlas>

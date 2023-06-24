@@ -1,59 +1,59 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "idle",
-			"fps": 24,
-			"name": "desm idle",
-			"indices": []
+			"indices": [],
+			"name": "desm idle"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singLEFT",
-			"fps": 24,
-			"name": "desm left",
-			"indices": []
+			"indices": [],
+			"name": "desm left"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singDOWN",
-			"fps": 24,
-			"name": "desm down",
-			"indices": []
+			"indices": [],
+			"name": "desm down"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singUP",
-			"fps": 24,
-			"name": "desm up",
-			"indices": []
+			"indices": [],
+			"name": "desm up"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 24,
-			"name": "desm right",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "desm right"
 		}
 	],
 	"no_antialiasing": false,
@@ -65,9 +65,9 @@
 	"healthicon": "des",
 	"flip_x": false,
 	"healthbar_colors": [
-		85,
-		0,
-		215
+		200,
+		100,
+		228
 	],
 	"camera_position": [
 		80,

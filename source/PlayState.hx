@@ -260,6 +260,8 @@ class PlayState extends MusicBeatState
 	var megaFloor:BGSprite;
 
 	var calamaridDrop:FlxBackdrop;
+	var calDropX:Int = 0;
+	var calDropY:Int = 80;
 	var calamariFloor:BGSprite;
 
 	var towerSky:BGSprite;
@@ -278,6 +280,7 @@ class PlayState extends MusicBeatState
 	var timeTxt:FlxText;
 	var scoreTxtTween:FlxTween;
 
+	public static var ucnFreeplayScore:Int = 0;
 	public static var campaignScore:Int = 0;
 	public static var campaignMisses:Int = 0;
 	public static var seenCutscene:Bool = false;
@@ -563,7 +566,7 @@ class PlayState extends MusicBeatState
 	
 				calamaridDrop = new FlxBackdrop(Paths.image('calamari'));
 				add(calamaridDrop);
-				calamaridDrop.velocity.set(0, 80);
+				calamaridDrop.velocity.set(calDropX, calDropY);
 				FlxTween.num(-90, 90, 3.5, {type: FlxTweenType.PINGPONG, ease: FlxEase.quadInOut}, updateValue);
 	
 				add(calamariFloor);
@@ -3909,6 +3912,16 @@ class PlayState extends MusicBeatState
 				} else {
 					FunkinLua.setVarInArray(this, value1, value2);
 				}
+			
+			case 'Calamity BG Speed':
+				if(curStage == 'calamari'){
+					var val1:Float = Std.parseFloat(value1);
+					var val2:Float = Std.parseFloat(value2);
+					FlxTween.num(calDropY, val1, val2, {type: FlxTweenType.PERSIST, ease: FlxEase.quadInOut}, function fuckoff(value:Float):Void {
+						calDropY = Std.int(value);
+						calamaridDrop.velocity.set(calDropX, calDropY);
+					});
+				}
 		}
 		callOnLuas('onEvent', [eventName, value1, value2]);
 	}
@@ -4070,6 +4083,8 @@ class PlayState extends MusicBeatState
 			if (isStoryMode)
 			{
 				FlxG.save.data.pTokens += Std.int(songScore/1000);
+
+				FlxG.save.flush();
 				trace('new token amount' + FlxG.save.data.pTokens);
 				campaignScore += songScore;
 				campaignMisses += songMisses;
@@ -4079,7 +4094,7 @@ class PlayState extends MusicBeatState
 				if (storyPlaylist.length <= 0)
 				{
 					WeekData.loadTheFirstEnabledMod();
-					FlxG.sound.playMusic(Paths.music('freakyMenu'));
+					//FlxG.sound.playMusic(Paths.music('freakyMenu'));
 
 					cancelMusicFadeTween();
 					if(FlxTransitionableState.skipNextTransIn) {
@@ -4088,10 +4103,12 @@ class PlayState extends MusicBeatState
 					if (isSecretSong)
 						{
 						isSecretSong = false;
+						FlxG.sound.playMusic(Paths.music('freakyMenu'));
 						MusicBeatState.switchState(new MainMenuState());
 					}
 					else {
-						MusicBeatState.switchState(new StoryMenuState());
+						//MusicBeatState.switchState(new StoryMenuState());
+						MusicBeatState.switchState(new UcnScreen());
 					}
 
 					// if ()
@@ -4149,7 +4166,9 @@ class PlayState extends MusicBeatState
 			}
 			else
 			{
+				ucnFreeplayScore = songScore;
 				FlxG.save.data.pTokens += Std.int(songScore/1000);
+				FlxG.save.flush();
 				trace('new token amount' + FlxG.save.data.pTokens);
 				trace('WENT BACK TO FREEPLAY??');
 				WeekData.loadTheFirstEnabledMod();
@@ -4160,8 +4179,9 @@ class PlayState extends MusicBeatState
 				if (isSecretSong) {
 					isSecretSong = false;
 				}
-				MusicBeatState.switchState(new FreeplayState());
-				FlxG.sound.playMusic(Paths.music('freakyMenu'));
+				//MusicBeatState.switchState(new FreeplayState());
+				//FlxG.sound.playMusic(Paths.music('freakyMenu'));
+				MusicBeatState.switchState(new UcnScreen());
 				changedDifficulty = false;
 			}
 			transitioning = true;
@@ -4745,7 +4765,8 @@ class PlayState extends MusicBeatState
 
 	function updateValue(value:Float):Void
 		{
-			calamaridDrop.velocity.set(value, 80);
+			calDropX = Std.int(value);
+			calamaridDrop.velocity.set(calDropX, calDropY);
 		}
 
 	function goodNoteHit(note:Note):Void

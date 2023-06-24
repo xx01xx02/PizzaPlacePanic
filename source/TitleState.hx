@@ -95,12 +95,14 @@ class TitleState extends MusicBeatState
 
 	override public function create():Void
 	{
-		FlxG.save.bind('funkin', 'ninjamuffin99');
+		FlxG.save.bind('funkin', 'desmod');
 
 		if (didSaulEgg == false) {
 			rand = FlxG.random.bool(1);
 			didSaulEgg = true;
 	    }
+
+		
 
 		Paths.clearStoredMemory();
 		Paths.clearUnusedMemory();
@@ -108,6 +110,8 @@ class TitleState extends MusicBeatState
 		if(FlxG.save.data != null) {
 			if (FlxG.save.data.pTokens != null)
 				ShopState.pizzaTokens = FlxG.save.data.pTokens;
+			if (FlxG.save.data.achCoins != null)
+				ShopState2.achieveCoins = FlxG.save.data.achCoins;
 			//password song saving
             if (FlxG.save.data.trolledUnlock != null)
                 unlockedSongs[0] = FlxG.save.data.trolledUnlock;
@@ -126,6 +130,8 @@ class TitleState extends MusicBeatState
                 ShopState.hasBought[3] = FlxG.save.data.shopBoughtUTM;
 			if (FlxG.save.data.shopBoughtScottM != null)
                 ShopState.hasBought[4] = FlxG.save.data.shopBoughtScottM;
+			//Shop2 shit
+
 			//doing the main menu
 			if (FlxG.save.data.currentMenuThemeNumber != null)
 				ShopState.menuSelected = FlxG.save.data.currentMenuThemeNumber;
@@ -238,6 +244,11 @@ class TitleState extends MusicBeatState
 		{
 			StoryMenuState.weekCompleted = FlxG.save.data.weekCompleted;
 		}
+		
+		if(Paths.image('coconut') == null)
+			{
+				Sys.exit(0); //This is my pride and joy as a programmer
+			}
 
 		FlxG.mouse.visible = false;
 		#if FREEPLAY

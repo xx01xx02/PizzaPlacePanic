@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Amongus_squad.png">
+	<!-- Created with Adobe Animate version 22.0.6.202 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Amongus squad0000" x="0" y="0" width="1812" height="841" frameX="0" frameY="-12" frameWidth="1817" frameHeight="853"/>
+	<SubTexture name="Amongus squad0001" x="0" y="0" width="1812" height="841" frameX="0" frameY="-12" frameWidth="1817" frameHeight="853"/>
+	<SubTexture name="Amongus squad0002" x="1812" y="0" width="1808" height="850" frameX="-4" frameY="-3" frameWidth="1817" frameHeight="853"/>
+	<SubTexture name="Amongus squad0003" x="1812" y="0" width="1808" height="850" frameX="-4" frameY="-3" frameWidth="1817" frameHeight="853"/>
+	<SubTexture name="Amongus squad0004" x="0" y="850" width="1803" height="853" frameX="-12" frameY="0" frameWidth="1817" frameHeight="853"/>
+	<SubTexture name="Amongus squad0005" x="0" y="850" width="1803" height="853" frameX="-12" frameY="0" frameWidth="1817" frameHeight="853"/>
+	<SubTexture name="Amongus squad0006" x="1803" y="850" width="1810" height="850" frameX="-7" frameY="-3" frameWidth="1817" frameHeight="853"/>
+	<SubTexture name="Amongus squad0007" x="1803" y="850" width="1810" height="850" frameX="-7" frameY="-3" frameWidth="1817" frameHeight="853"/>
+	<SubTexture name="Amongus squad0008" x="1803" y="850" width="1810" height="850" frameX="-7" frameY="-3" frameWidth="1817" frameHeight="853"/>
+	<SubTexture name="Amongus squad0009" x="1803" y="850" width="1810" height="850" frameX="-7" frameY="-3" frameWidth="1817" frameHeight="853"/>
+	<SubTexture name="Amongus squad0010" x="1803" y="850" width="1810" height="850" frameX="-7" frameY="-3" frameWidth="1817" frameHeight="853"/>
+	<SubTexture name="Amongus squad0011" x="1803" y="850" width="1810" height="850" frameX="-7" frameY="-3" frameWidth="1817" frameHeight="853"/>
+	<SubTexture name="Amongus squad0012" x="1803" y="850" width="1810" height="850" frameX="-7" frameY="-3" frameWidth="1817" frameHeight="853"/>
+	<SubTexture name="Amongus squad0013" x="1803" y="850" width="1810" height="850" frameX="-7" frameY="-3" frameWidth="1817" frameHeight="853"/>
+	<SubTexture name="Amongus squad0014" x="1803" y="850" width="1810" height="850" frameX="-7" frameY="-3" frameWidth="1817" frameHeight="853"/>
+</TextureAtlas>

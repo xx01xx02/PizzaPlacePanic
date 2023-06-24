@@ -11,8 +11,6 @@ import flixel.addons.ui.FlxInputText;
 import flixel.addons.text.FlxTypeText;
 import lime.utils.Assets;
 import flixel.FlxSubState;
-import flixel.FlxG;
-import flixel.FlxSprite;
 import flixel.util.FlxSave;
 import haxe.Json;
 import flixel.util.FlxTimer;
@@ -22,6 +20,7 @@ import flixel.addons.display.FlxBackdrop;
 import flixel.util.FlxTimer;
 import flixel.tweens.FlxEase;
 import flixel.tweens.FlxTween;
+import flixel.system.FlxSound;
 
 import Controls;
 
@@ -145,6 +144,7 @@ class PasswordState extends MusicBeatState
 				PlayState.campaignScore = 0;
 				PlayState.campaignMisses = 0;
 				FlxG.save.data.trolledUnlock = true;
+				FlxG.save.flush();
 				newSong.visible = true;
 				FlxG.sound.music.volume = 0;
 				FlxG.sound.play(Paths.sound('goodJingle'), 1.1);
@@ -169,6 +169,7 @@ class PasswordState extends MusicBeatState
 				PlayState.campaignScore = 0;
 				PlayState.campaignMisses = 0;
 				FlxG.save.data.deshredUnlock = true;
+				FlxG.save.flush();
 				newSong.visible = true;
 				FlxG.sound.music.volume = 0;
 				FlxG.sound.play(Paths.sound('goodJingle'), 1.1);
@@ -193,6 +194,7 @@ class PasswordState extends MusicBeatState
 				PlayState.campaignScore = 0;
 				PlayState.campaignMisses = 0;
 				FlxG.save.data.milkshakeUnlock = true;
+				FlxG.save.flush();
 				newSong.visible = true;
 				FlxG.sound.music.volume = 0;
 				FlxG.sound.play(Paths.sound('goodJingle'), 1.1);
@@ -214,7 +216,11 @@ class PasswordState extends MusicBeatState
 				new FlxTimer().start(1, function(tmr:FlxTimer)
 					{
 						FlxTween.num(100, 1280, 6, {type: FlxTweenType.PERSIST, ease: FlxEase.linear}, updateValue);
-						FlxG.sound.play(Paths.sound('holy_shit'), 1);
+						var screm:FlxSound;
+						screm = FlxG.sound.load(Paths.sound('holy_shit'));
+						screm.volume = 0;
+						screm.play();
+						screm.fadeIn(7, 0, 0.85);
 					});
 				new FlxTimer().start(2, function(tmr:FlxTimer)
 					{

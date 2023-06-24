@@ -130,30 +130,39 @@ class OhioState extends MusicBeatState
 
 		changeItem();
 
-		#if ACHIEVEMENTS_ALLOWED
-		Achievements.loadAchievements();
-		var leDate = Date.now();
-		if (leDate.getDay() == 5 && leDate.getHours() >= 18) {
-			var achieveID:Int = Achievements.getAchievementIndex('friday_night_play');
-			if(!Achievements.isAchievementUnlocked(Achievements.achievementsStuff[achieveID][2])) { //It's a friday night. WEEEEEEEEEEEEEEEEEE
-				Achievements.achievementsMap.set(Achievements.achievementsStuff[achieveID][2], true);
-				giveAchievement();
-				ClientPrefs.saveSettings();
-			}
-		}
-		#end
-
 		super.create();
 	}
 
-	#if ACHIEVEMENTS_ALLOWED
-	// Unlocks "Freaky on a Friday Night" achievement
-	function giveAchievement() {
-		add(new AchievementObject('friday_night_play', camAchievement));
-		FlxG.sound.play(Paths.sound('confirmMenu'), 0.7);
-		trace('Giving achievement "friday_night_play"');
-	}
-	#end
+	/*	Its funny, isn't it?
+		Everyone elses work is able to be seen, to be comprehended.
+		All their art, music, ideas, fully visible for every player to look at.
+		While I'm stuck in here, programming the mod so you can even play it.
+		So their work can be shown off, at the cost of my work being overshadowed because it's just "lines of words that make stuff".
+		"Anyone can program so why bother, it's nothing special." Bullshit.
+		I worked my ass off for this, but it won't matter.
+		...
+		Will anyone ever see this? 
+		Will I gain any reputation as a programmer?
+		Will I ever get actual responses from people to work for them instead of getting ghosted like always?
+		Or will I just stay stuck at my level as an unknown guy who made a stupid fucking black and white mod that also did "some stuff" for ppp.
+		The only work you can actually look at are fucking joke characters I never intended to be added.
+		My visible work can be fucking boiled down to a joke. How disgraceful is that?
+		And even if I want to make something cool where I get some spotlight as a quirky shopkeeper, it immediately gets snatched away again because someone else wanted it.
+		I'm not mad at them, just sad.
+		Then I ask myself, why am I still working on this?
+		Why torture myself through endless hours of coding for no credit, only being recognized as "programmer" while other people who did jack shit for this code are also labeled as "programmers"
+		Is it because I owe des something? Is it because it's too late to leave?
+		Who am I proving myself to, if all I do falls on deaf ears?
+		...
+		Maybe I will get that answer someday, maybe not.
+		Someone will probably find this when I post this on github.
+		If you are that someone who reads this, boil a shrimp or something.
+		I dont give a fuck.
+		Just know that programming is fucking difficult and is something that should be honored.
+		I dont want programmers to be that one part of the team that gets no recognition and is only mentioned once.
+		But also realise that there is a surplus of talented people other than big names like clowfoe or that other guy i forgot the name of.
+		Goodnight.
+		*/
 
 	var selectedSomethin:Bool = false;
 
@@ -230,6 +239,7 @@ class OhioState extends MusicBeatState
 										PlayState.campaignScore = 0;
 										PlayState.campaignMisses = 0;
 										FlxG.save.data.calamityUnlocked = true;
+										FlxG.save.flush();
 										FlxG.sound.music.volume = 0;
 				    					LoadingState.loadAndSwitchState(new PlayState());
 										FlxG.sound.music.volume = 0;

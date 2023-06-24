@@ -1,59 +1,59 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				-1,
 				0
 			],
-			"anim": "idle",
+			"loop": false,
 			"fps": 19,
-			"name": "susdes idle",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "susdes idle"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singLEFT",
-			"fps": 24,
-			"name": "susdes left",
-			"indices": []
+			"indices": [],
+			"name": "susdes left"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singDOWN",
-			"fps": 24,
-			"name": "susdes down",
-			"indices": []
+			"indices": [],
+			"name": "susdes down"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singUP",
-			"fps": 24,
-			"name": "susdes up",
-			"indices": []
+			"indices": [],
+			"name": "susdes up"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 24,
-			"name": "susdes right",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "susdes right"
 		}
 	],
 	"no_antialiasing": false,
@@ -62,12 +62,12 @@
 		-130,
 		-50
 	],
-	"healthicon": "des",
+	"healthicon": "susdes",
 	"flip_x": false,
 	"healthbar_colors": [
-		85,
-		0,
-		215
+		200,
+		100,
+		228
 	],
 	"camera_position": [
 		140,

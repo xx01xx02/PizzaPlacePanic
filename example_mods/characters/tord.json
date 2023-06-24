@@ -1,59 +1,59 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				-7,
 				-83
 			],
-			"anim": "singDOWN",
+			"loop": false,
 			"fps": 24,
-			"name": "tord down",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "tord down"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				-61
 			],
-			"anim": "idle",
+			"loop": false,
 			"fps": 24,
-			"name": "tord idle",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "tord idle"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				11,
 				-79
 			],
-			"anim": "singLEFT",
+			"loop": false,
 			"fps": 24,
-			"name": "tord left",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "tord left"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-25,
 				-75
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 24,
-			"name": "tord right",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "tord right"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				7,
 				-41
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 24,
-			"name": "tord up",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "tord up"
 		}
 	],
 	"no_antialiasing": false,
@@ -65,9 +65,9 @@
 	"healthicon": "norwegian",
 	"flip_x": false,
 	"healthbar_colors": [
-		155,
-		75,
-		255
+		118,
+		70,
+		138
 	],
 	"camera_position": [
 		0,

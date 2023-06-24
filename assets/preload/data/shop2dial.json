@@ -1,0 +1,33 @@
+[{
+    "topic": "testtopic",
+    "dialogue": [{
+            "anim": "normal",
+            "line": "Yo yo yo yo welcome to the shop my mango"
+        },
+        {
+            "anim": "funny",
+            "line": "i sure hope this json shit works."
+        },
+        {
+            "anim": "sad",
+            "line": "else i would be really fucking sad :( ."
+        },
+        {
+            "anim": "normal",
+            "line": "anyway buy some shit."
+        }
+    ]
+},
+{
+    "topic": "wackywoah",
+    "dialogue": [{
+            "anim": "funny",
+            "line": "THIS IS SO FUCKING WACKY LMAOOOO"
+        },
+        {
+            "anim": "funny",
+            "line": "LIKE AND SUBSCRIBE FOR MORE OF THE FUNNY"
+        }
+    ]
+    }
+]

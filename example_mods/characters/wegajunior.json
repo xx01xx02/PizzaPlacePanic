@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-120
+			],
+			"anim": "idle",
+			"fps": 28,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				209,
+				-146
+			],
+			"anim": "singLEFT",
+			"fps": 28,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				298,
+				-173
+			],
+			"anim": "singDOWN",
+			"fps": 28,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-81,
+				384
+			],
+			"anim": "singUP",
+			"fps": 28,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-53,
+				-147
+			],
+			"anim": "singRIGHT",
+			"fps": 28,
+			"name": "right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/wegajunior",
+	"position": [
+		-240,
+		-360
+	],
+	"healthicon": "wega",
+	"flip_x": false,
+	"healthbar_colors": [
+		123,
+		106,
+		150
+	],
+	"camera_position": [
+		100,
+		280
+	],
+	"sing_duration": 6.1,
+	"scale": 0.7
+}

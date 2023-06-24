@@ -1,78 +1,78 @@
 {
 	"animations": [
 		{
-			"offsets": [
-				186,
-				133
-			],
 			"loop": false,
-			"fps": 24,
+			"offsets": [
+				0,
+				0
+			],
 			"anim": "idle",
-			"indices": [],
-			"name": "scott idle dance"
+			"fps": 24,
+			"name": "desm idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "desm down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "desm up",
+			"indices": []
 		},
 		{
 			"offsets": [
-				177,
-				150
+				0,
+				0
 			],
-			"loop": false,
+			"indices": [],
 			"fps": 24,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "scott Sing Note LEFT"
+			"loop": false,
+			"name": "desm right"
 		},
 		{
 			"offsets": [
-				170,
-				120
+				0,
+				0
 			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singDOWN",
 			"indices": [],
-			"name": "scott Sing Note DOWN"
-		},
-		{
-			"offsets": [
-				135,
-				120
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singUP",
-			"indices": [],
-			"name": "scott Sing Note UP"
-		},
-		{
-			"offsets": [
-				90,
-				167
-			],
-			"loop": false,
 			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "scott Sing Note RIGHT"
+			"loop": false,
+			"name": "desm left"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/scottfuckingfuming",
+	"image": "characters/desm",
 	"position": [
-		0,
-		0
+		-30,
+		100
 	],
-	"healthicon": "desfuming",
+	"healthicon": "des",
 	"flip_x": false,
 	"healthbar_colors": [
-		175,
-		102,
-		206
+		200,
+		100,
+		228
 	],
 	"camera_position": [
-		0,
-		0
+		80,
+		-40
 	],
 	"sing_duration": 6.1,
-	"scale": 0.9
+	"scale": 1
 }

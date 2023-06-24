@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Goated_amongly_des_IDLE DANCE"
+		},
+		{
+			"offsets": [
+				76,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Goated_amongly_des_SING LEFT"
+		},
+		{
+			"offsets": [
+				99,
+				-125
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Goated_amongly_des_SING DOWN"
+		},
+		{
+			"offsets": [
+				-7,
+				299
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Goated_amongly_des_SING UP"
+		},
+		{
+			"offsets": [
+				-38,
+				-13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Goated_amongly_des_SING RIGHT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Goated_Amongly_Des_Assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "despissed",
+	"flip_x": false,
+	"healthbar_colors": [
+		109,
+		92,
+		177
+	],
+	"camera_position": [
+		160,
+		-40
+	],
+	"sing_duration": 6.1,
+	"scale": 1.4
+}

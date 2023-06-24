@@ -1,5 +1,5 @@
 function onUpdate(elapsed)
-	if dadName == 'das' then
+	if dadName == '3d-dasdas' then
 	  if curStep >= 0 then
   
 		songPos = getSongPosition()

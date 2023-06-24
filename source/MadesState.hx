@@ -46,7 +46,7 @@ class MadesState extends MusicBeatState
 
         if (controls.ACCEPT) {
 			FlxG.camera.flash(ClientPrefs.flashing ? FlxColor.WHITE : 0x4CFFFFFF, 1);
-			FlxG.sound.play(Paths.sound('friendly'), 1.6);
+			FlxG.sound.play(Paths.sound('friendly'), 3);
 			new FlxTimer().start(2, function(tmr:FlxTimer)
 				{
 				Sys.exit(0);

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="khonjin.png">
+<SubTexture name="khonjin khonjinidle0000" x="0" y="1025" width="307" height="500" frameX="0" frameY="0" frameWidth="307" frameHeight="500" />
+<SubTexture name="khonjin khonjinidle0001" x="307" y="1025" width="307" height="500" frameX="0" frameY="0" frameWidth="307" frameHeight="500" />
+<SubTexture name="khonjin khonjinidle0002" x="614" y="1025" width="307" height="500" frameX="0" frameY="0" frameWidth="307" frameHeight="500" />
+<SubTexture name="khonjin khonjinleft0000" x="1855" y="500" width="4" height="492" frameX="0" frameY="0" frameWidth="4" frameHeight="492" />
+<SubTexture name="khonjin khonjinleft0001" x="1842" y="500" width="13" height="498" frameX="0" frameY="0" frameWidth="13" frameHeight="498" />
+<SubTexture name="khonjin khonjinleft0002" x="921" y="1025" width="525" height="500" frameX="0" frameY="0" frameWidth="525" frameHeight="500" />
+<SubTexture name="khonjin khonjinleft0003" x="1529" y="0" width="313" height="500" frameX="0" frameY="0" frameWidth="313" frameHeight="500" />
+<SubTexture name="khonjin khonjinleft0004" x="1529" y="500" width="313" height="500" frameX="0" frameY="0" frameWidth="313" frameHeight="500" />
+<SubTexture name="khonjin khonjinleft0005" x="1529" y="1000" width="313" height="500" frameX="0" frameY="0" frameWidth="313" frameHeight="500" />
+<SubTexture name="khonjin khonjinleft0006" x="1842" y="0" width="469" height="500" frameX="0" frameY="0" frameWidth="469" frameHeight="500" />
+<SubTexture name="khonjin khonjinleft0007" x="0" y="1525" width="549" height="500" frameX="0" frameY="0" frameWidth="549" frameHeight="500" />
+<SubTexture name="khonjin khonjinleft0008" x="549" y="1525" width="627" height="500" frameX="0" frameY="0" frameWidth="627" frameHeight="500" />
+<SubTexture name="khonjin khonjinleft0009" x="1176" y="1525" width="633" height="500" frameX="0" frameY="0" frameWidth="633" frameHeight="500" />
+<SubTexture name="khonjin khonjinright0000" x="0" y="1025" width="307" height="500" frameX="0" frameY="0" frameWidth="307" frameHeight="500" />
+<SubTexture name="khonjin khonjinright0001" x="654" y="517" width="307" height="505" frameX="0" frameY="0" frameWidth="307" frameHeight="505" />
+<SubTexture name="khonjin khonjinright0002" x="910" y="0" width="311" height="511" frameX="0" frameY="0" frameWidth="311" frameHeight="511" />
+<SubTexture name="khonjin khonjinup0000" x="0" y="0" width="227" height="517" frameX="0" frameY="0" frameWidth="227" frameHeight="517" />
+<SubTexture name="khonjin khonjinup0001" x="0" y="2459" width="716" height="60" frameX="0" frameY="0" frameWidth="716" frameHeight="60" />
+<SubTexture name="khonjin khonjinup0002" x="1842" y="998" width="268" height="438" frameX="0" frameY="0" frameWidth="268" frameHeight="438" />
+<SubTexture name="khonjin khonjinup0003" x="2311" y="438" width="207" height="430" frameX="0" frameY="0" frameWidth="207" frameHeight="430" />
+<SubTexture name="khonjin khonjinup0004" x="2311" y="0" width="268" height="438" frameX="0" frameY="0" frameWidth="268" frameHeight="438" />
+<SubTexture name="khonjin khonjinup0005" x="1971" y="2025" width="415" height="378" frameX="0" frameY="0" frameWidth="415" frameHeight="378" />
+<SubTexture name="khonjin khonjinup0006" x="1108" y="2025" width="383" height="403" frameX="0" frameY="0" frameWidth="383" frameHeight="403" />
+<SubTexture name="khonjin khonjinup0007" x="750" y="2025" width="358" height="419" frameX="0" frameY="0" frameWidth="358" frameHeight="419" />
+<SubTexture name="khonjin khonjinup0008" x="0" y="0" width="227" height="517" frameX="0" frameY="0" frameWidth="227" frameHeight="517" />
+<SubTexture name="khonjin idle0000" x="2311" y="868" width="253" height="426" frameX="0" frameY="0" frameWidth="253" frameHeight="426" />
+<SubTexture name="khonjin khonjinup0009" x="2579" y="711" width="379" height="234" frameX="0" frameY="0" frameWidth="379" frameHeight="234" />
+<SubTexture name="khonjin khonjinup0010" x="443" y="2025" width="307" height="422" frameX="0" frameY="0" frameWidth="307" frameHeight="422" />
+<SubTexture name="khonjin khonjinup0011" x="443" y="2025" width="307" height="422" frameX="0" frameY="0" frameWidth="307" frameHeight="422" />
+<SubTexture name="khonjin khonjindown0000" x="1221" y="0" width="308" height="502" frameX="0" frameY="0" frameWidth="308" frameHeight="502" />
+<SubTexture name="khonjin khonjindown0001" x="1859" y="500" width="381" height="467" frameX="0" frameY="0" frameWidth="381" frameHeight="467" />
+<SubTexture name="khonjin khonjindown0002" x="0" y="2025" width="443" height="434" frameX="0" frameY="0" frameWidth="443" frameHeight="434" />
+<SubTexture name="khonjin khonjindown0003" x="1491" y="2025" width="480" height="400" frameX="0" frameY="0" frameWidth="480" frameHeight="400" />
+<SubTexture name="khonjin khonjindown0004" x="2579" y="358" width="501" height="353" frameX="0" frameY="0" frameWidth="501" frameHeight="353" />
+<SubTexture name="khonjin khonjindown0005" x="2579" y="0" width="513" height="358" frameX="0" frameY="0" frameWidth="513" frameHeight="358" />
+<SubTexture name="khonjin khonjindown0006" x="1809" y="1525" width="480" height="456" frameX="0" frameY="0" frameWidth="480" frameHeight="456" />
+<SubTexture name="khonjin khonjindown0007" x="227" y="0" width="365" height="512" frameX="0" frameY="0" frameWidth="365" frameHeight="512" />
+<SubTexture name="khonjin khonjindown0008" x="592" y="0" width="318" height="512" frameX="0" frameY="0" frameWidth="318" frameHeight="512" />
+<SubTexture name="khonjin khonjindown0009" x="0" y="517" width="346" height="508" frameX="0" frameY="0" frameWidth="346" frameHeight="508" />
+<SubTexture name="khonjin khonjindown0010" x="346" y="517" width="308" height="506" frameX="0" frameY="0" frameWidth="308" frameHeight="506" />
+<SubTexture name="khonjin khonjindown0011" x="1221" y="502" width="308" height="501" frameX="0" frameY="0" frameWidth="308" frameHeight="501" />
+</TextureAtlas>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="des.png">
+<SubTexture name="des desdown0000" x="1050" y="429" width="350" height="416" frameX="0" frameY="0" frameWidth="350" frameHeight="416" />
+<SubTexture name="des desdown0001" x="1326" y="1425" width="350" height="368" frameX="0" frameY="0" frameWidth="350" frameHeight="368" />
+<SubTexture name="des desdown0002" x="1946" y="0" width="350" height="322" frameX="0" frameY="0" frameWidth="350" frameHeight="322" />
+<SubTexture name="des desdown0003" x="1946" y="322" width="350" height="272" frameX="0" frameY="0" frameWidth="350" frameHeight="272" />
+<SubTexture name="des desleft0000" x="350" y="530" width="556" height="429" frameX="0" frameY="0" frameWidth="556" frameHeight="429" />
+<SubTexture name="des desleft0001" x="1050" y="0" width="530" height="429" frameX="0" frameY="0" frameWidth="530" frameHeight="429" />
+<SubTexture name="des desleft0002" x="0" y="996" width="566" height="429" frameX="0" frameY="0" frameWidth="566" frameHeight="429" />
+<SubTexture name="des desleft0003" x="566" y="996" width="612" height="429" frameX="0" frameY="0" frameWidth="612" frameHeight="429" />
+<SubTexture name="des desidle0000" x="976" y="1425" width="350" height="398" frameX="0" frameY="0" frameWidth="350" frameHeight="398" />
+<SubTexture name="des desidle0001" x="1178" y="996" width="350" height="416" frameX="0" frameY="0" frameWidth="350" frameHeight="416" />
+<SubTexture name="des desidle0002" x="700" y="0" width="350" height="482" frameX="0" frameY="0" frameWidth="350" frameHeight="482" />
+<SubTexture name="des desidle0003" x="350" y="0" width="350" height="510" frameX="0" frameY="0" frameWidth="350" frameHeight="510" />
+<SubTexture name="des desright0000" x="1580" y="0" width="366" height="416" frameX="0" frameY="0" frameWidth="366" frameHeight="416" />
+<SubTexture name="des desright0001" x="1580" y="416" width="358" height="416" frameX="0" frameY="0" frameWidth="358" frameHeight="416" />
+<SubTexture name="des desright0002" x="1580" y="832" width="318" height="416" frameX="0" frameY="0" frameWidth="318" frameHeight="416" />
+<SubTexture name="des desright0003" x="0" y="1425" width="276" height="416" frameX="0" frameY="0" frameWidth="276" frameHeight="416" />
+<SubTexture name="des desup0000" x="276" y="1425" width="350" height="416" frameX="0" frameY="0" frameWidth="350" frameHeight="416" />
+<SubTexture name="des desup0001" x="626" y="1425" width="350" height="416" frameX="0" frameY="0" frameWidth="350" frameHeight="416" />
+<SubTexture name="des desup0002" x="0" y="530" width="350" height="466" frameX="0" frameY="0" frameWidth="350" frameHeight="466" />
+<SubTexture name="des desup0003" x="0" y="0" width="350" height="530" frameX="0" frameY="0" frameWidth="350" frameHeight="530" />
+</TextureAtlas>

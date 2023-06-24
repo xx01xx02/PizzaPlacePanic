@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				80
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "DesIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				84,
+				65
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "DesLeft",
+			"indices": []
+		},
+		{
+			"offsets": [
+				34,
+				16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "DesDown"
+		},
+		{
+			"offsets": [
+				-50,
+				130
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "DesUp"
+		},
+		{
+			"offsets": [
+				-33,
+				85
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "DesRight"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/desdesbutanrgy",
+	"position": [
+		-30,
+		202
+	],
+	"healthicon": "despissed",
+	"flip_x": false,
+	"healthbar_colors": [
+		109,
+		92,
+		177
+	],
+	"camera_position": [
+		60,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

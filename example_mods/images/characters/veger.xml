@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="veger.png">
+	<!-- Created with Adobe Animate version 22.0.6.202 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Veger idle0000" x="0" y="0" width="258" height="473" frameX="-16" frameY="-26" frameWidth="274" frameHeight="499"/>
+	<SubTexture name="Veger idle0001" x="258" y="0" width="252" height="480" frameX="-10" frameY="-19" frameWidth="274" frameHeight="499"/>
+	<SubTexture name="Veger idle0002" x="510" y="0" width="254" height="489" frameX="-5" frameY="-10" frameWidth="274" frameHeight="499"/>
+	<SubTexture name="Veger idle0003" x="764" y="0" width="257" height="495" frameX="-2" frameY="-4" frameWidth="274" frameHeight="499"/>
+	<SubTexture name="Veger idle0004" x="1021" y="0" width="258" height="498" frameX="0" frameY="-1" frameWidth="274" frameHeight="499"/>
+	<SubTexture name="Veger idle0005" x="1279" y="0" width="258" height="499" frameX="0" frameY="0" frameWidth="274" frameHeight="499"/>
+	<SubTexture name="Veger idle0006" x="1279" y="0" width="258" height="499" frameX="0" frameY="0" frameWidth="274" frameHeight="499"/>
+	<SubTexture name="Veger idle0007" x="1279" y="0" width="258" height="499" frameX="0" frameY="0" frameWidth="274" frameHeight="499"/>
+	<SubTexture name="Veger idle0008" x="1279" y="0" width="258" height="499" frameX="0" frameY="0" frameWidth="274" frameHeight="499"/>
+	<SubTexture name="Veger idle0009" x="1279" y="0" width="258" height="499" frameX="0" frameY="0" frameWidth="274" frameHeight="499"/>
+	<SubTexture name="veger down0000" x="1537" y="0" width="379" height="438" frameX="0" frameY="-16" frameWidth="379" frameHeight="455"/>
+	<SubTexture name="veger down0001" x="1916" y="0" width="379" height="445" frameX="0" frameY="-9" frameWidth="379" frameHeight="455"/>
+	<SubTexture name="veger down0002" x="2295" y="0" width="379" height="450" frameX="0" frameY="-4" frameWidth="379" frameHeight="455"/>
+	<SubTexture name="veger down0003" x="2674" y="0" width="379" height="453" frameX="0" frameY="-1" frameWidth="379" frameHeight="455"/>
+	<SubTexture name="veger down0004" x="3053" y="0" width="379" height="455"/>
+	<SubTexture name="veger down0005" x="3053" y="0" width="379" height="455"/>
+	<SubTexture name="veger down0006" x="3053" y="0" width="379" height="455"/>
+	<SubTexture name="veger down0007" x="3053" y="0" width="379" height="455"/>
+	<SubTexture name="veger down0008" x="3053" y="0" width="379" height="455"/>
+	<SubTexture name="veger down0009" x="3053" y="0" width="379" height="455"/>
+	<SubTexture name="veger left0000" x="3432" y="0" width="329" height="499" frameX="0" frameY="0" frameWidth="341" frameHeight="499"/>
+	<SubTexture name="veger left0001" x="3761" y="0" width="325" height="499" frameX="-9" frameY="0" frameWidth="341" frameHeight="499"/>
+	<SubTexture name="veger left0002" x="0" y="499" width="323" height="498" frameX="-15" frameY="-1" frameWidth="341" frameHeight="499"/>
+	<SubTexture name="veger left0003" x="323" y="499" width="322" height="497" frameX="-18" frameY="-2" frameWidth="341" frameHeight="499"/>
+	<SubTexture name="veger left0004" x="645" y="499" width="322" height="497" frameX="-19" frameY="-2" frameWidth="341" frameHeight="499"/>
+	<SubTexture name="veger left0005" x="645" y="499" width="322" height="497" frameX="-19" frameY="-2" frameWidth="341" frameHeight="499"/>
+	<SubTexture name="veger left0006" x="645" y="499" width="322" height="497" frameX="-19" frameY="-2" frameWidth="341" frameHeight="499"/>
+	<SubTexture name="veger left0007" x="645" y="499" width="322" height="497" frameX="-19" frameY="-2" frameWidth="341" frameHeight="499"/>
+	<SubTexture name="veger left0008" x="645" y="499" width="322" height="497" frameX="-19" frameY="-2" frameWidth="341" frameHeight="499"/>
+	<SubTexture name="veger left0009" x="645" y="499" width="322" height="497" frameX="-19" frameY="-2" frameWidth="341" frameHeight="499"/>
+	<SubTexture name="veger right0000" x="967" y="499" width="342" height="485" frameX="-2" frameY="-4" frameWidth="344" frameHeight="489"/>
+	<SubTexture name="veger right0001" x="1309" y="499" width="335" height="486" frameX="-2" frameY="-3" frameWidth="344" frameHeight="489"/>
+	<SubTexture name="veger right0002" x="1644" y="499" width="329" height="487" frameX="-2" frameY="-2" frameWidth="344" frameHeight="489"/>
+	<SubTexture name="veger right0003" x="1973" y="499" width="326" height="488" frameX="-2" frameY="-1" frameWidth="344" frameHeight="489"/>
+	<SubTexture name="veger right0004" x="2299" y="499" width="326" height="489" frameX="0" frameY="0" frameWidth="344" frameHeight="489"/>
+	<SubTexture name="veger right0005" x="2299" y="499" width="326" height="489" frameX="0" frameY="0" frameWidth="344" frameHeight="489"/>
+	<SubTexture name="veger right0006" x="2299" y="499" width="326" height="489" frameX="0" frameY="0" frameWidth="344" frameHeight="489"/>
+	<SubTexture name="veger right0007" x="2299" y="499" width="326" height="489" frameX="0" frameY="0" frameWidth="344" frameHeight="489"/>
+	<SubTexture name="veger right0008" x="2299" y="499" width="326" height="489" frameX="0" frameY="0" frameWidth="344" frameHeight="489"/>
+	<SubTexture name="veger right0009" x="2299" y="499" width="326" height="489" frameX="0" frameY="0" frameWidth="344" frameHeight="489"/>
+	<SubTexture name="veger up0000" x="2625" y="499" width="336" height="529" frameX="-7" frameY="0" frameWidth="345" frameHeight="529"/>
+	<SubTexture name="veger up0001" x="2961" y="499" width="340" height="523" frameX="-4" frameY="-6" frameWidth="345" frameHeight="529"/>
+	<SubTexture name="veger up0002" x="3301" y="499" width="342" height="519" frameX="-2" frameY="-10" frameWidth="345" frameHeight="529"/>
+	<SubTexture name="veger up0003" x="3643" y="499" width="343" height="515" frameX="-1" frameY="-14" frameWidth="345" frameHeight="529"/>
+	<SubTexture name="veger up0004" x="0" y="1028" width="345" height="513" frameX="0" frameY="-16" frameWidth="345" frameHeight="529"/>
+	<SubTexture name="veger up0005" x="345" y="1028" width="345" height="513" frameX="0" frameY="-16" frameWidth="345" frameHeight="529"/>
+	<SubTexture name="veger up0006" x="345" y="1028" width="345" height="513" frameX="0" frameY="-16" frameWidth="345" frameHeight="529"/>
+	<SubTexture name="veger up0007" x="345" y="1028" width="345" height="513" frameX="0" frameY="-16" frameWidth="345" frameHeight="529"/>
+	<SubTexture name="veger up0008" x="345" y="1028" width="345" height="513" frameX="0" frameY="-16" frameWidth="345" frameHeight="529"/>
+	<SubTexture name="veger up0009" x="345" y="1028" width="345" height="513" frameX="0" frameY="-16" frameWidth="345" frameHeight="529"/>
+</TextureAtlas>

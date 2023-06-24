@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="wegajuniorMAD.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down0000" x="10" y="10" width="1981" height="752" frameX="0" frameY="-311" frameWidth="1981" frameHeight="1063"/>
+	<SubTexture name="down0001" x="2001" y="10" width="1881" height="741" frameX="-55" frameY="-292" frameWidth="1981" frameHeight="1063"/>
+	<SubTexture name="down0002" x="3892" y="10" width="1785" height="770" frameX="-106" frameY="-238" frameWidth="1981" frameHeight="1063"/>
+	<SubTexture name="down0003" x="5687" y="10" width="1640" height="792" frameX="-181" frameY="-204" frameWidth="1981" frameHeight="1063"/>
+	<SubTexture name="down0004" x="5687" y="10" width="1640" height="792" frameX="-181" frameY="-204" frameWidth="1981" frameHeight="1063"/>
+	<SubTexture name="down0005" x="10" y="812" width="1425" height="831" frameX="-298" frameY="-156" frameWidth="1981" frameHeight="1063"/>
+	<SubTexture name="down0006" x="1445" y="812" width="1314" height="911" frameX="-353" frameY="-76" frameWidth="1981" frameHeight="1063"/>
+	<SubTexture name="down0007" x="2769" y="812" width="1191" height="961" frameX="-415" frameY="-26" frameWidth="1981" frameHeight="1063"/>
+	<SubTexture name="down0008" x="3970" y="812" width="1132" height="981" frameX="-444" frameY="-6" frameWidth="1981" frameHeight="1063"/>
+	<SubTexture name="down0009" x="5112" y="812" width="1108" height="987" frameX="-456" frameY="0" frameWidth="1981" frameHeight="1063"/>
+	<SubTexture name="down0010" x="5112" y="812" width="1108" height="987" frameX="-456" frameY="0" frameWidth="1981" frameHeight="1063"/>
+	<SubTexture name="down0011" x="5112" y="812" width="1108" height="987" frameX="-456" frameY="0" frameWidth="1981" frameHeight="1063"/>
+	<SubTexture name="idle0000" x="6230" y="812" width="1190" height="948" frameX="0" frameY="-114" frameWidth="1190" frameHeight="1062"/>
+	<SubTexture name="idle0001" x="10" y="1809" width="1138" height="970" frameX="-26" frameY="-92" frameWidth="1190" frameHeight="1062"/>
+	<SubTexture name="idle0002" x="1158" y="1809" width="1106" height="976" frameX="-42" frameY="-86" frameWidth="1190" frameHeight="1062"/>
+	<SubTexture name="idle0003" x="2274" y="1809" width="1068" height="986" frameX="-61" frameY="-76" frameWidth="1190" frameHeight="1062"/>
+	<SubTexture name="idle0004" x="3352" y="1809" width="964" height="1062" frameX="-108" frameY="0" frameWidth="1190" frameHeight="1062"/>
+	<SubTexture name="idle0005" x="4326" y="1809" width="996" height="1041" frameX="-97" frameY="-21" frameWidth="1190" frameHeight="1062"/>
+	<SubTexture name="idle0006" x="5332" y="1809" width="1008" height="1036" frameX="-91" frameY="-26" frameWidth="1190" frameHeight="1062"/>
+	<SubTexture name="idle0007" x="6350" y="1809" width="1024" height="1024" frameX="-83" frameY="-38" frameWidth="1190" frameHeight="1062"/>
+	<SubTexture name="idle0008" x="6350" y="1809" width="1024" height="1024" frameX="-83" frameY="-38" frameWidth="1190" frameHeight="1062"/>
+	<SubTexture name="idle0009" x="6350" y="1809" width="1024" height="1024" frameX="-83" frameY="-38" frameWidth="1190" frameHeight="1062"/>
+	<SubTexture name="idle0010" x="10" y="2881" width="1030" height="1022" frameX="-80" frameY="-40" frameWidth="1190" frameHeight="1062"/>
+	<SubTexture name="idle0011" x="1050" y="2881" width="1036" height="1019" frameX="-77" frameY="-43" frameWidth="1190" frameHeight="1062"/>
+	<SubTexture name="left0000" x="2096" y="2881" width="1412" height="1037" frameX="0" frameY="-7" frameWidth="1413" frameHeight="1044"/>
+	<SubTexture name="left0001" x="3518" y="2881" width="1398" height="1034" frameX="-15" frameY="-5" frameWidth="1413" frameHeight="1044"/>
+	<SubTexture name="left0002" x="4926" y="2881" width="1340" height="1032" frameX="-73" frameY="-2" frameWidth="1413" frameHeight="1044"/>
+	<SubTexture name="left0003" x="6276" y="2881" width="1289" height="1029" frameX="-124" frameY="-1" frameWidth="1413" frameHeight="1044"/>
+	<SubTexture name="left0004" x="6276" y="2881" width="1289" height="1029" frameX="-124" frameY="-1" frameWidth="1413" frameHeight="1044"/>
+	<SubTexture name="left0005" x="10" y="3928" width="1231" height="1024" frameX="-181" frameY="0" frameWidth="1413" frameHeight="1044"/>
+	<SubTexture name="left0006" x="1251" y="3928" width="1154" height="1024" frameX="-259" frameY="0" frameWidth="1413" frameHeight="1044"/>
+	<SubTexture name="left0007" x="2415" y="3928" width="1102" height="1024" frameX="-310" frameY="0" frameWidth="1413" frameHeight="1044"/>
+	<SubTexture name="left0008" x="3527" y="3928" width="1085" height="1024" frameX="-327" frameY="0" frameWidth="1413" frameHeight="1044"/>
+	<SubTexture name="left0009" x="4622" y="3928" width="1080" height="1024" frameX="-332" frameY="0" frameWidth="1413" frameHeight="1044"/>
+	<SubTexture name="left0010" x="4622" y="3928" width="1080" height="1024" frameX="-332" frameY="0" frameWidth="1413" frameHeight="1044"/>
+	<SubTexture name="left0011" x="4622" y="3928" width="1080" height="1024" frameX="-332" frameY="0" frameWidth="1413" frameHeight="1044"/>
+	<SubTexture name="right0000" x="5712" y="3928" width="1382" height="1041" frameX="-1" frameY="-9" frameWidth="1383" frameHeight="1050"/>
+	<SubTexture name="right0001" x="10" y="4979" width="1332" height="1037" frameX="0" frameY="-6" frameWidth="1383" frameHeight="1050"/>
+	<SubTexture name="right0002" x="1352" y="4979" width="1302" height="1036" frameX="-1" frameY="-3" frameWidth="1383" frameHeight="1050"/>
+	<SubTexture name="right0003" x="2664" y="4979" width="1191" height="1030" frameX="-1" frameY="-1" frameWidth="1383" frameHeight="1050"/>
+	<SubTexture name="right0004" x="2664" y="4979" width="1191" height="1030" frameX="-1" frameY="-1" frameWidth="1383" frameHeight="1050"/>
+	<SubTexture name="right0005" x="3865" y="4979" width="1127" height="1024" frameX="-1" frameY="0" frameWidth="1383" frameHeight="1050"/>
+	<SubTexture name="right0006" x="5002" y="4979" width="1112" height="1024" frameX="-1" frameY="0" frameWidth="1383" frameHeight="1050"/>
+	<SubTexture name="right0007" x="6124" y="4979" width="1098" height="1024" frameX="-1" frameY="0" frameWidth="1383" frameHeight="1050"/>
+	<SubTexture name="right0008" x="10" y="6026" width="1090" height="1024" frameX="-1" frameY="0" frameWidth="1383" frameHeight="1050"/>
+	<SubTexture name="right0009" x="1110" y="6026" width="1085" height="1024" frameX="-1" frameY="0" frameWidth="1383" frameHeight="1050"/>
+	<SubTexture name="right0010" x="1110" y="6026" width="1085" height="1024" frameX="-1" frameY="0" frameWidth="1383" frameHeight="1050"/>
+	<SubTexture name="right0011" x="1110" y="6026" width="1085" height="1024" frameX="-1" frameY="0" frameWidth="1383" frameHeight="1050"/>
+	<SubTexture name="up0000" x="2205" y="6026" width="459" height="1783" frameX="-217" frameY="0" frameWidth="956" frameHeight="1783"/>
+	<SubTexture name="up0001" x="2674" y="6026" width="472" height="1753" frameX="-223" frameY="-30" frameWidth="956" frameHeight="1783"/>
+	<SubTexture name="up0002" x="3156" y="6026" width="516" height="1667" frameX="-207" frameY="-116" frameWidth="956" frameHeight="1783"/>
+	<SubTexture name="up0003" x="3682" y="6026" width="626" height="1512" frameX="-158" frameY="-271" frameWidth="956" frameHeight="1783"/>
+	<SubTexture name="up0004" x="3682" y="6026" width="626" height="1512" frameX="-158" frameY="-271" frameWidth="956" frameHeight="1783"/>
+	<SubTexture name="up0005" x="4318" y="6026" width="718" height="1382" frameX="-119" frameY="-401" frameWidth="956" frameHeight="1783"/>
+	<SubTexture name="up0006" x="5046" y="6026" width="833" height="1271" frameX="-62" frameY="-512" frameWidth="956" frameHeight="1783"/>
+	<SubTexture name="up0007" x="5889" y="6026" width="906" height="1193" frameX="-25" frameY="-590" frameWidth="956" frameHeight="1783"/>
+	<SubTexture name="up0008" x="6805" y="6026" width="934" height="1160" frameX="-11" frameY="-623" frameWidth="956" frameHeight="1783"/>
+</TextureAtlas>

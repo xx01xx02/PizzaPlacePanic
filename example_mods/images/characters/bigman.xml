@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bigman.png">
+<SubTexture name="bigman winstonfanup0000" x="597" y="972" width="285" height="406" frameX="0" frameY="0" frameWidth="285" frameHeight="406" />
+<SubTexture name="bigman winstonfanup0001" x="312" y="972" width="285" height="430" frameX="0" frameY="0" frameWidth="285" frameHeight="430" />
+<SubTexture name="bigman winstonfanup0002" x="855" y="0" width="285" height="466" frameX="0" frameY="0" frameWidth="285" frameHeight="466" />
+<SubTexture name="bigman winstonfanup0003" x="285" y="0" width="285" height="506" frameX="0" frameY="0" frameWidth="285" frameHeight="506" />
+<SubTexture name="bigman winstonfanup0004" x="285" y="0" width="285" height="506" frameX="0" frameY="0" frameWidth="285" frameHeight="506" />
+<SubTexture name="bigman winstonfandown0000" x="363" y="1410" width="398" height="324" frameX="0" frameY="0" frameWidth="398" frameHeight="324" />
+<SubTexture name="bigman winstonfandown0001" x="761" y="1410" width="398" height="306" frameX="0" frameY="0" frameWidth="398" frameHeight="306" />
+<SubTexture name="bigman winstonfandown0002" x="1159" y="1410" width="398" height="258" frameX="0" frameY="0" frameWidth="398" frameHeight="258" />
+<SubTexture name="bigman winstonfandown0003" x="1557" y="1410" width="398" height="244" frameX="0" frameY="0" frameWidth="398" frameHeight="244" />
+<SubTexture name="bigman winstonfanright0000" x="1429" y="0" width="667" height="405" frameX="0" frameY="0" frameWidth="667" frameHeight="405" />
+<SubTexture name="bigman winstonfanright0001" x="1429" y="405" width="631" height="405" frameX="0" frameY="0" frameWidth="631" frameHeight="405" />
+<SubTexture name="bigman winstonfanright0002" x="1429" y="810" width="579" height="405" frameX="0" frameY="0" frameWidth="579" frameHeight="405" />
+<SubTexture name="bigman winstonfanright0003" x="0" y="1410" width="363" height="405" frameX="0" frameY="0" frameWidth="363" frameHeight="405" />
+<SubTexture name="bigman idle0000" x="0" y="534" width="311" height="438" frameX="0" frameY="0" frameWidth="311" frameHeight="438" />
+<SubTexture name="bigman winstonfanleft0000" x="311" y="534" width="285" height="438" frameX="0" frameY="0" frameWidth="285" frameHeight="438" />
+<SubTexture name="bigman winstonfanleft0001" x="596" y="534" width="267" height="438" frameX="0" frameY="0" frameWidth="267" frameHeight="438" />
+<SubTexture name="bigman winstonfanleft0002" x="1140" y="0" width="289" height="438" frameX="0" frameY="0" frameWidth="289" frameHeight="438" />
+<SubTexture name="bigman winstonfanleft0003" x="0" y="972" width="312" height="438" frameX="0" frameY="0" frameWidth="312" frameHeight="438" />
+<SubTexture name="bigman winstonfanidle0000" x="882" y="972" width="285" height="406" frameX="0" frameY="0" frameWidth="285" frameHeight="406" />
+<SubTexture name="bigman winstonfanidle0001" x="1140" y="438" width="285" height="438" frameX="0" frameY="0" frameWidth="285" frameHeight="438" />
+<SubTexture name="bigman winstonfanidle0002" x="570" y="0" width="285" height="470" frameX="0" frameY="0" frameWidth="285" frameHeight="470" />
+<SubTexture name="bigman winstonfanidle0003" x="0" y="0" width="285" height="534" frameX="0" frameY="0" frameWidth="285" frameHeight="534" />
+</TextureAtlas>

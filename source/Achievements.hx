@@ -19,7 +19,7 @@ class Achievements {
 		["Trolled to the Extreme",		"Find and beat a secret song.",						'secret_fool',			false],
 		["Fateful Meeting",				"Find and beat a secret song.",						'secret_milk',			false],
 		["Money Hole",					"Buy something from the shop.",						'shop_first',			false],
-		["Buy some debt",				"Buy everything from the shop.",					'shop_all',				false],
+		["In debt",						"Buy everything from the shop.",					'shop_all',				false],
 		["End of All",					"[Data Expunged]",									'calamari',				false],
 		["Golden Copy",					"Number 4: Ban yourself, stop playing",				'numero_uno',			true]
 	];
@@ -27,6 +27,9 @@ class Achievements {
 
 	public static var henchmenDeath:Int = 0;
 	public static function unlockAchievement(name:String):Void {
+		FlxG.save.data.achCoins += 1;
+		FlxG.save.flush();
+		ShopState2.achieveCoins = FlxG.save.data.achCoins;
 		FlxG.log.add('Completed achievement "' + name +'"');
 		achievementsMap.set(name, true);
 		FlxG.sound.play(Paths.sound('confirmMenu'), 0.7);

@@ -14,6 +14,7 @@ import flixel.math.FlxMath;
 import flixel.text.FlxText;
 import flixel.util.FlxColor;
 import flixel.tweens.FlxTween;
+import flixel.tweens.FlxEase;
 import lime.utils.Assets;
 import flixel.system.FlxSound;
 import openfl.utils.Assets as OpenFlAssets;
@@ -49,6 +50,8 @@ class FreeplayState extends MusicBeatState
 	var bg:FlxSprite;
 	var intendedColor:Int;
 	var colorTween:FlxTween;
+	var splashimage:FlxSprite;
+	var splashTween:FlxTween;
 
 	override function create()
 	{
@@ -107,7 +110,7 @@ class FreeplayState extends MusicBeatState
 		if (ShopState.hasBought[1])
 			addSong('Self Insert', 0, 'norwegian', 0xFFFFAAFF);
 		if (ShopState.hasBought[2])
-			addSong('Susarray', 0, 'des', 0xFFFFAAFF);
+			addSong('Susarray', 0, 'susdes', 0xFFFFAAFF);
 
 		//Password songs
 		if (TitleState.unlockedSongs[0])
@@ -123,6 +126,20 @@ class FreeplayState extends MusicBeatState
 		bg.antialiasing = ClientPrefs.globalAntialiasing;
 		add(bg);
 		bg.screenCenter();
+
+		if(Paths.image('freeplaysplashes/'+ songs[curSelected].songCharacter) != null)
+			{
+				splashimage = new FlxSprite(FlxG.width, 0).loadGraphic(Paths.image('freeplaysplashes/'+ songs[curSelected].songCharacter));
+			}
+		else
+			{
+				splashimage = new FlxSprite(FlxG.width, 0).loadGraphic(Paths.image('freeplaysplashes/null'));
+			}
+			splashimage.screenCenter(Y);
+
+		add(splashimage);
+
+		splashTween = FlxTween.tween(splashimage, { x:splashimage.x-splashimage.width-50, y:splashimage.y }, 0.35,{ease: FlxEase.quadInOut});
 
 		grpSongs = new FlxTypedGroup<Alphabet>();
 		add(grpSongs);
@@ -183,7 +200,11 @@ class FreeplayState extends MusicBeatState
 			lastDifficultyName = CoolUtil.defaultDifficulty;
 		}
 		curDifficulty = Math.round(Math.max(0, CoolUtil.defaultDifficulties.indexOf(lastDifficultyName)));
+
 		
+		
+
+		splashUpdate();
 		changeSelection();
 		changeDiff();
 
@@ -300,11 +321,13 @@ class FreeplayState extends MusicBeatState
 			if (upP)
 			{
 				changeSelection(-shiftMult);
+				splashUpdate();
 				holdTime = 0;
 			}
 			if (downP)
 			{
 				changeSelection(shiftMult);
+				splashUpdate();
 				holdTime = 0;
 			}
 
@@ -317,6 +340,7 @@ class FreeplayState extends MusicBeatState
 				if(holdTime > 0.5 && checkNewHold - checkLastHold > 0)
 				{
 					changeSelection((checkNewHold - checkLastHold) * (controls.UI_UP ? -shiftMult : shiftMult));
+					splashUpdate();
 					changeDiff();
 				}
 			}
@@ -325,6 +349,7 @@ class FreeplayState extends MusicBeatState
 			{
 				FlxG.sound.play(Paths.sound('scrollMenu'), 0.2);
 				changeSelection(-shiftMult * FlxG.mouse.wheel, false);
+				splashUpdate();
 				changeDiff();
 			}
 		}
@@ -449,6 +474,24 @@ class FreeplayState extends MusicBeatState
 		positionHighscore();
 	}
 
+	function splashUpdate()
+		{
+			splashTween.cancel();
+			if(Paths.image('freeplaysplashes/'+ songs[curSelected].songCharacter) != null)
+				{
+					splashimage.loadGraphic(Paths.image('freeplaysplashes/' + songs[curSelected].songCharacter));
+				}
+			else
+				{
+					splashimage.loadGraphic(Paths.image('freeplaysplashes/null'));
+				}
+				splashimage.screenCenter(Y);
+				splashimage.x = FlxG.width;
+
+
+			splashTween = FlxTween.tween(splashimage, { x:splashimage.x-splashimage.width-50, y:splashimage.y }, 0.35, {ease: FlxEase.quadInOut});
+		}
+
 	function changeSelection(change:Int = 0, playSound:Bool = true)
 	{
 		if(playSound) FlxG.sound.play(Paths.sound('scrollMenu'), 0.4);
@@ -459,7 +502,7 @@ class FreeplayState extends MusicBeatState
 			curSelected = songs.length - 1;
 		if (curSelected >= songs.length)
 			curSelected = 0;
-			
+
 		var newColor:Int = songs[curSelected].color;
 		if(newColor != intendedColor) {
 			if(colorTween != null) {

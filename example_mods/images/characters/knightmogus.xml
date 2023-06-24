@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="knightmogus.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="knightmogus20000" x="5" y="5" width="588" height="359" frameX="-6" frameY="0" frameWidth="602" frameHeight="392"/>
+	<SubTexture name="knightmogus20001" x="5" y="369" width="602" height="356" frameX="0" frameY="-36" frameWidth="602" frameHeight="392"/>
+</TextureAtlas>

@@ -130,7 +130,7 @@ class ShopState extends MusicBeatState
 			case 11:
 				shopKeepName = 'das';
 			case 12:
-				shopKeepName = 'femdes';
+				shopKeepName = 'wtf';
 			case 13:
 				shopKeepName = 'topdes';
 			case 14:
@@ -176,8 +176,8 @@ class ShopState extends MusicBeatState
 						dieText = new FlxTypeText(60, 416, 756, "Hey man. Welcome to the shop. Get whatever you want if you've got the tokens for it. Just don't ask about my old friend.", 32);
 					case 'das':
 						dieText = new FlxTypeText(60, 416, 756, "Greetings, young one. what would you like to purchase from our fine shoppe?", 32);
-					case 'femdes':
-						dieText = new FlxTypeText(60, 416, 756, "hi lol", 32);
+					case 'wtf':
+						dieText = new FlxTypeText(60, 416, 756, "Hello Silly Guy… I am Desilly Dilbert Johnson and I sell you Widgets? And Gadget", 32);
 					case 'topdes':
 						dieText = new FlxTypeText(60, 416, 756, "Hello Swagged Cashman... What do you as a Hood Man want to get from this HoodLike SHop", 32);
 					case 'utdes':
@@ -283,8 +283,8 @@ class ShopState extends MusicBeatState
 						dieText.resetText("That's a good purchase. Hope you like "+ items[curSelected] + ".");
 					case 'das':
 						dieText.resetText("Have fun with that " + items[curSelected] + ", young one.");
-					case 'femdes':
-						dieText.resetText("ok whatever you got the " + items[curSelected] + " lol");
+					case 'wtf':
+						dieText.resetText("Purchased one of my  " + items[curSelected] + "??? Widget?? Good for yoThe rides:");
 					case 'topdes':
 						dieText.resetText("Yeaaaaahhhh.... Das Fax...... Hoodlike " + items[curSelected] + ", also..... sorry forgot");
 					case 'utdes':
@@ -329,8 +329,8 @@ class ShopState extends MusicBeatState
 						dieText.resetText("You don't have enough Pizza Tokens. Come again, if you still wanna buy that thing.");
 					case 'das':
 						dieText.resetText("Sincerest apologies, but you do not have enough money.");
-					case 'femdes':
-						dieText.resetText("not enough tokens lol");
+					case 'wtf':
+						dieText.resetText("not enough cunt");
 					case 'topdes':
 						dieText.resetText("Not Enough Cash You Dumb Fucking Idiot");
 					case 'utdes':
@@ -367,8 +367,8 @@ class ShopState extends MusicBeatState
 						dieText.resetText("....You do know you already bought that one, right???");
 					case 'das':
 						dieText.resetText("You have already purchased this, young one.");
-					case 'femdes':
-						dieText.resetText("already bought that lol rofl");
+					case 'wtf':
+						dieText.resetText("I am muting this game! You already have thaI am muting it");
 					case 'topdes':
 						dieText.resetText("You Actual Fucking Troglodyte Loser");
 					case 'utdes':
@@ -456,12 +456,14 @@ class ShopState extends MusicBeatState
 		FlxG.save.data.shopBoughtScottM = hasBought[4];
 		FlxG.save.data.shopMenusUnlocked = unlockedMenus;
 		FlxG.save.data.pTokens = pizzaTokens;
+		FlxG.save.flush();
 	}
 
 	function saveMenuTheme(){
 		FlxG.save.data.currentMenuThemeNumber = menuSelected;
 		FlxG.save.data.shopMenusUnlocked = unlockedMenus;
 		FlxG.save.data.currentMenuTheme = unlockedMenus[menuSelected];
+		FlxG.save.flush();
 	}
 
 	function changeSelection(huh:Int){

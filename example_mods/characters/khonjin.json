@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-190
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "khonjin khonjinidle"
+		},
+		{
+			"offsets": [
+				161,
+				-210
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "khonjin khonjinleft"
+		},
+		{
+			"offsets": [
+				0,
+				-210
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "khonjin khonjindown"
+		},
+		{
+			"offsets": [
+				-6,
+				-270
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "khonjin khonjinup"
+		},
+		{
+			"offsets": [
+				0,
+				-183
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "khonjin khonjinright"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/khonjin",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "khonjin",
+	"flip_x": true,
+	"healthbar_colors": [
+		215,
+		66,
+		70
+	],
+	"camera_position": [
+		-60,
+		140
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}

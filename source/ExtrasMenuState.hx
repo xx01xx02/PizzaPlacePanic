@@ -32,7 +32,8 @@ class ExtrasMenuState extends MusicBeatState
 	
 	var optionShit:Array<String> = [
 		'awards',
-		'shop'
+		'shop',
+		'shop2'
 
 	];
 
@@ -249,6 +250,8 @@ class ExtrasMenuState extends MusicBeatState
 										MusicBeatState.switchState(new AchievementsMenuState());
 									case 'shop':
 										MusicBeatState.switchState(new ShopState());
+									case 'shop2':
+										MusicBeatState.switchState(new ShopState2());
 								}
 							});
 						}

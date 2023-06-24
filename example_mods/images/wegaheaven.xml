@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="wegaheaven.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="wegaheaven0000" x="5" y="5" width="1992" height="1133"/>
+	<SubTexture name="wegaheaven0001" x="2002" y="5" width="1992" height="1133"/>
+	<SubTexture name="wegaheaven0002" x="3999" y="5" width="1992" height="1133"/>
+	<SubTexture name="wegaheaven0003" x="5996" y="5" width="1992" height="1133"/>
+	<SubTexture name="wegaheaven0004" x="5" y="1143" width="1992" height="1133"/>
+	<SubTexture name="wegaheaven0005" x="2002" y="1143" width="1992" height="1133"/>
+	<SubTexture name="wegaheaven0006" x="3999" y="1143" width="1992" height="1133"/>
+	<SubTexture name="wegaheaven0007" x="5996" y="1143" width="1992" height="1133"/>
+	<SubTexture name="wegaheaven0008" x="5" y="2281" width="1992" height="1133"/>
+	<SubTexture name="wegaheaven0009" x="2002" y="2281" width="1992" height="1133"/>
+	<SubTexture name="wegaheaven0010" x="3999" y="2281" width="1992" height="1133"/>
+	<SubTexture name="wegaheaven0011" x="5996" y="2281" width="1992" height="1133"/>
+	<SubTexture name="wegaheaven0012" x="5" y="3419" width="1992" height="1133"/>
+	<SubTexture name="wegaheaven0013" x="2002" y="3419" width="1992" height="1133"/>
+	<SubTexture name="wegaheaven0014" x="3999" y="3419" width="1992" height="1133"/>
+	<SubTexture name="wegaheaven0015" x="5996" y="3419" width="1992" height="1133"/>
+	<SubTexture name="wegaheaven0016" x="5" y="4557" width="1992" height="1133"/>
+	<SubTexture name="wegaheaven0017" x="2002" y="4557" width="1992" height="1133"/>
+	<SubTexture name="wegaheaven0018" x="3999" y="4557" width="1992" height="1133"/>
+	<SubTexture name="wegaheaven0019" x="5996" y="4557" width="1992" height="1133"/>
+	<SubTexture name="wegaheaven0020" x="5" y="5695" width="1992" height="1133"/>
+	<SubTexture name="wegaheaven0021" x="2002" y="5695" width="1992" height="1133"/>
+	<SubTexture name="wegaheaven0022" x="3999" y="5695" width="1992" height="1133"/>
+	<SubTexture name="wegaheaven0023" x="5996" y="5695" width="1992" height="1133"/>
+	<SubTexture name="wegaheaven0024" x="5" y="6833" width="1992" height="1133"/>
+	<SubTexture name="wegaheaven0025" x="5" y="5" width="1992" height="1133"/>
+</TextureAtlas>

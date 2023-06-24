@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				190
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "idle",
+			"loop": false,
+			"name": "3d-dasdas-calamity idle"
+		},
+		{
+			"offsets": [
+				19,
+				149
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "3d-dasdas-calamity left"
+		},
+		{
+			"offsets": [
+				-6,
+				189
+			],
+			"indices": [],
+			"fps": 22,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "3d-dasdas-calamity down"
+		},
+		{
+			"offsets": [
+				-5,
+				187
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "3d-dasdas-calamity up"
+		},
+		{
+			"offsets": [
+				-73,
+				148
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "3d-dasdas-calamity right"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/3d-dasdas-calamity",
+	"position": [
+		-400,
+		0
+	],
+	"healthicon": "dad",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		0,
+		255
+	],
+	"camera_position": [
+		-140,
+		-220
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

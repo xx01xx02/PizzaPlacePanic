@@ -19,36 +19,36 @@ upAltoffsets = {'0', '0'}
 rightAltoffsets = {'0', '0'}
 
 -- change all of these to the name of the animation in your character's xml file
-idle_xml_name = 'das'
-left_xml_name = 'das'
-down_xml_name = 'das'
-up_xml_name = 'das'
-right_xml_name = 'das'
+idle_xml_name = '3d-dasdas-calamity idle'
+left_xml_name = '3d-dasdas-calamity left'
+down_xml_name = '3d-dasdas-calamity down'
+up_xml_name = '3d-dasdas-calamity up'
+right_xml_name = '3d-dasdas-calamity right'
 
-left_miss_xml_name = 'das'   -- you probably won't need these if it's for the opponent
-down_miss_xml_name = 'das'   --
-up_miss_xml_name = 'das'       --
-right_miss_xml_name = 'das' --
+left_miss_xml_name = '3d-dasdas-calamity idle'   -- you probably won't need these if it's for the opponent
+down_miss_xml_name = '3d-dasdas-calamity idle'   --
+up_miss_xml_name = '3d-dasdas-calamity idle'       --
+right_miss_xml_name = '3d-dasdas-calamity idle' --
 
-left_alt_xml_name = 'das'
-down_alt_xml_name = 'das'
-up_alt_xml_name = 'das'
-right_alt_xml_name = 'das'
+left_alt_xml_name = '3d-dasdas-calamity idle'
+down_alt_xml_name = '3d-dasdas-calamity idle'
+up_alt_xml_name = '3d-dasdas-calamity idle'
+right_alt_xml_name = '3d-dasdas-calamity idle'
 
 -- basically horizontal and vertical positions
-x_position = 1185
-y_position = 320
+x_position = 650
+y_position = 250
 
 -- scales your character (set to 1 by default)
-xScale = 1
-yScale = 1
+xScale = 1.1
+yScale = 1.1
 
 -- invisible character (so basically if you wanna use the change character event, you need to make the second character invisible first)
 invisible = false
 
 -- pretty self-explanitory
-name_of_character_xml = 'calamidas'
-name_of_character = 'das'
+name_of_character_xml = '3d-dasdas-calamity'
+name_of_character = '3d-dasdas-calamity'
 name_of_notetype = 'das'
 --name_of_notetype2 = '' -- for multiple characters singing at the same time
 --altnotetype = '' -- this is used for alt animations (uncomment if you use them)
@@ -66,7 +66,7 @@ doIdle = true
 function onCreate()
 	makeAnimatedLuaSprite(name_of_character, 'characters/' .. name_of_character_xml, x_position, y_position);
 
-	addAnimationByPrefix(name_of_character, 'idle', idle_xml_name, 24, true);
+	addAnimationByPrefix(name_of_character, 'idle', idle_xml_name, 24, false);
 	addAnimationByPrefix(name_of_character, 'singLEFT', left_xml_name, 24, false);
 	addAnimationByPrefix(name_of_character, 'singDOWN', down_xml_name, 24, false);
 	addAnimationByPrefix(name_of_character, 'singUP', up_xml_name, 24, false);
@@ -268,7 +268,7 @@ end
 function onBeatHit()
 	-- triggered 4 times per section
 	if curBeat % 2 == 0  and doIdle then
-		objectPlayAnimation(name_of_character, 'idle');
+		playAnim(name_of_character, 'idle');
 		setProperty(name_of_character .. '.offset.x', idleoffsets[1]);
 		setProperty(name_of_character .. '.offset.y', idleoffsets[2]);
 	end

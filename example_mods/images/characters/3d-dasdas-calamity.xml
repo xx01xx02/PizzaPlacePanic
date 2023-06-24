@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="3d-dasdas-calamity.png">
+<SubTexture name="3d-dasdas-calamity idle0000" x="1903" y="0" width="375" height="507" frameX="-493" frameY="-286" frameWidth="1336" frameHeight="975" />
+<SubTexture name="3d-dasdas-calamity idle0001" x="1260" y="975" width="374" height="544" frameX="-493" frameY="-254" frameWidth="1336" frameHeight="975" />
+<SubTexture name="3d-dasdas-calamity idle0002" x="0" y="975" width="373" height="561" frameX="-494" frameY="-229" frameWidth="1337" frameHeight="975" />
+<SubTexture name="3d-dasdas-calamity idle0003" x="1120" y="0" width="377" height="574" frameX="-492" frameY="-199" frameWidth="1337" frameHeight="975" />
+<SubTexture name="3d-dasdas-calamity left0000" x="993" y="1536" width="539" height="461" frameX="-112" frameY="-167" frameWidth="1336" frameHeight="975" />
+<SubTexture name="3d-dasdas-calamity left0001" x="0" y="1536" width="489" height="507" frameX="-263" frameY="-173" frameWidth="1336" frameHeight="975" />
+<SubTexture name="3d-dasdas-calamity left0002" x="823" y="975" width="437" height="548" frameX="-383" frameY="-184" frameWidth="1336" frameHeight="975" />
+<SubTexture name="3d-dasdas-calamity right0000" x="489" y="1536" width="504" height="494" frameX="-646" frameY="-145" frameWidth="1336" frameHeight="975" />
+<SubTexture name="3d-dasdas-calamity right0001" x="373" y="975" width="450" height="552" frameX="-581" frameY="-137" frameWidth="1336" frameHeight="975" />
+<SubTexture name="3d-dasdas-calamity right0002" x="1497" y="0" width="406" height="571" frameX="-509" frameY="-174" frameWidth="1336" frameHeight="975" />
+<SubTexture name="3d-dasdas-calamity down0000" x="1903" y="507" width="370" height="459" frameX="-495" frameY="-310" frameWidth="1336" frameHeight="975" />
+<SubTexture name="3d-dasdas-calamity down0001" x="1903" y="966" width="368" height="390" frameX="-496" frameY="-379" frameWidth="1336" frameHeight="975" />
+<SubTexture name="3d-dasdas-calamity down0002" x="747" y="691" width="365" height="277" frameX="-498" frameY="-492" frameWidth="1336" frameHeight="975" />
+<SubTexture name="3d-dasdas-calamity down0003" x="1903" y="1356" width="355" height="134" frameX="-503" frameY="-636" frameWidth="1336" frameHeight="975" />
+<SubTexture name="3d-dasdas-calamity down0004" x="1120" y="866" width="345" height="87" frameX="-508" frameY="-683" frameWidth="1336" frameHeight="975" />
+<SubTexture name="3d-dasdas-calamity down0005" x="374" y="757" width="335" height="67" frameX="-513" frameY="-704" frameWidth="1336" frameHeight="975" />
+<SubTexture name="3d-dasdas-calamity up0000" x="747" y="0" width="373" height="691" frameX="-494" frameY="-77" frameWidth="1336" frameHeight="975" />
+<SubTexture name="3d-dasdas-calamity up0001" x="1497" y="571" width="367" height="348" frameX="-497" frameY="-421" frameWidth="1336" frameHeight="975" />
+<SubTexture name="3d-dasdas-calamity up0002" x="374" y="0" width="373" height="757" frameX="-494" frameY="-11" frameWidth="1336" frameHeight="975" />
+<SubTexture name="3d-dasdas-calamity up0003" x="1120" y="574" width="365" height="292" frameX="-498" frameY="-477" frameWidth="1336" frameHeight="975" />
+<SubTexture name="3d-dasdas-calamity up0004" x="0" y="0" width="374" height="975" frameX="-493" frameY="0" frameWidth="1336" frameHeight="975" />
+<SubTexture name="3d-dasdas-calamity up0005" x="1532" y="1536" width="364" height="248" frameX="-498" frameY="-521" frameWidth="1336" frameHeight="975" />
+</TextureAtlas>

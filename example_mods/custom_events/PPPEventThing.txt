@@ -1,0 +1,5 @@
+max here, just making this blank event so
+i can use it for bg changes and what not so yeah
+
+value 1 is always for what song i use it
+value 2 is the instance of an event (always blank if theres none or 1)
