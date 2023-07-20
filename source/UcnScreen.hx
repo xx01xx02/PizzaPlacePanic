@@ -14,6 +14,7 @@ class UcnScreen extends MusicBeatState
 {
 
     var pToken:Int = 0;
+    var intThing:Int = 0;
     var goToState:String = "";
     var theFuckingTween:FlxTween;
     var texty:FlxText;
@@ -27,6 +28,7 @@ class UcnScreen extends MusicBeatState
         super.create();
 
         FlxG.sound.playMusic(Paths.music('ucnwaiting'));
+        Conductor.changeBPM(120);
 
         if (PlayState.isStoryMode && !PlayState.isSecretSong){
             goToState = "story";
@@ -36,11 +38,11 @@ class UcnScreen extends MusicBeatState
         else {
             goToState = "freeplay";
             pToken = Std.int(PlayState.ucnFreeplayScore/1000);
-            //pToken = 400;
+            //pToken = 1000;
         }
         texty = new FlxText(0, 0, 0, "0", 28);
         texty.screenCenter();
-        theFuckingTween = FlxTween.num(0, 4500, 264.7, {type: FlxTweenType.PERSIST, ease: FlxEase.linear, onComplete: tweenDone}, doTheThing);
+        theFuckingTween = FlxTween.num(0, 1000, 58.8, {type: FlxTweenType.PERSIST, ease: FlxEase.linear, onComplete: tweenDone}, doTheThing);
         add(texty);
         effectSprite = new FlxEffectSprite(texty);
 		effectSprite.x = texty.x;
@@ -50,11 +52,12 @@ class UcnScreen extends MusicBeatState
 		effectSprite.effects = [rainbow];
     }
 
-    public function doTheThing(value:Float){
-        var intThing = Std.int(value);
-        texty.text = Std.string(intThing);
-        
-        if (intThing >= pToken-34 && !didSFX) {
+    override function beatHit(){
+
+        super.beatHit();
+        //trace("Hi");
+
+        if ((intThing >= pToken-34 || intThing >= 966) && !didSFX) {
             if (pToken >= 200) {
                 didSFX = true;
                 doJingle(true);
@@ -64,21 +67,34 @@ class UcnScreen extends MusicBeatState
                 doJingle(false);
             }
         }
+    }
+
+    public function doTheThing(value:Float){
+        intThing = Std.int(value);
+        texty.text = Std.string(intThing);
+
+        if (intThing >= 1000) {
+            texty.text = "ITS OVER 1000!!!";    
+        }
 
         if (intThing >= pToken) {
             theFuckingTween.cancel();
             check = true;
         }
 
-        rainbow.alpha = (intThing/4500)*0.99;
-        texty.size = Std.int((intThing/4500)*40+28);
+        rainbow.alpha = (intThing/1000)*0.8;
+        texty.size = Std.int((intThing/1000)*40+28);
+        texty.screenCenter();
+        effectSprite.x = texty.x;
+		effectSprite.y = texty.y;
     }
 
     function tweenDone(tween:FlxTween):Void
     {
+        //didSFX = true;
         check = true;
-        texty.text = "ITS OVER 9000!!!";
-        doJingle(true);
+        //texty.text = "ITS OVER 1000!!!";
+        //doJingle(true);
     }
 
     function doJingle(good:Bool)
@@ -96,8 +112,13 @@ class UcnScreen extends MusicBeatState
     override public function update(elapsed:Float):Void
     {
         super.update(elapsed);
+
+        if (FlxG.sound.music != null)
+			Conductor.songPosition = FlxG.sound.music.time;
+
         if (controls.ACCEPT && check){
             FlxG.sound.playMusic(Paths.music('freakyMenu'));
+            Conductor.changeBPM(102);
             switch (goToState)
 				{
 				case 'freeplay':
