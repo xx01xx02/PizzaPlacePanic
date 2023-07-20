@@ -1,5 +1,6 @@
 package;
 
+import flixel.system.debug.FlxDebugger;
 #if desktop
 import Discord.DiscordClient;
 import sys.thread.Thread;
@@ -21,6 +22,7 @@ import sys.io.File;
 #end
 import options.GraphicsSettingsSubState;
 //import flixel.graphics.FlxGraphic;
+import flixel.system.debug.Window; //yeah man
 import flixel.graphics.frames.FlxAtlasFrames;
 import flixel.graphics.frames.FlxFrame;
 import flixel.group.FlxGroup;
@@ -95,6 +97,16 @@ class TitleState extends MusicBeatState
 
 	override public function create():Void
 	{
+		var raaawwtitl:String = Assets.getText(Paths.txt('windowTitles'));
+		var firstArray:Array<String> = raaawwtitl.split('\n');//whats the name of the function
+
+		var windowtits:Array<String> = [];
+		for (i in firstArray) {//i may be stupid
+			windowtits.push(i);
+		}
+		var uuhh = FlxG.random.getObject(windowtits);
+		openfl.Lib.application.window.title = 'Pizza Place Panic: ' + uuhh;//dont ask me how long it took me to find documentation on this
+
 		FlxG.save.bind('funkin', 'desmod');
 
 		if (didSaulEgg == false) {
